@@ -1,0 +1,20 @@
+{
+  "version": "1",
+  "crops": {
+    "winter_wheat": {
+      "name": "Winter wheat",
+      "kcb_ini": {"value": 0.15, "source": "FAO-56 Table 17 (via pyfao56 1.4.3 FAO56Tables.table17)"},
+      "kcb_mid": {"value": 1.10, "source": "FAO-56 Table 17 (via pyfao56 1.4.3 FAO56Tables.table17)"},
+      "kcb_end": {"value": 0.15, "source": "FAO-56 Table 17 (via pyfao56 1.4.3 FAO56Tables.table17)"},
+      "kcm_ini": {"value": 0.70, "source": "FAO-56 Table 12, winter wheat non-frozen soils (via pyfao56)"},
+      "kcm_mid": {"value": 1.15, "source": "FAO-56 Table 12 (via pyfao56)"},
+      "kcm_end": {"value": 0.25, "source": "FAO-56 Table 12 (via pyfao56)"},
+      "stage_days": {"value": {"ini": 30, "dev": 140, "mid": 40, "late": 30}, "source": "FAO-56 Table 11, winter wheat, Mediterranean, planted Nov (via pyfao56)"},
+      "root_max_m": {"value": 1.5, "source": "FAO-56 Table 22 Zrmax lower bound, winter wheat (via pyfao56)"},
+      "p_base": {"value": 0.55, "source": "FAO-56 Table 22 (via pyfao56)"},
+      "height_max_m": {"value": 1.0, "source": "FAO-56 Table 12 hmax, winter wheat (via pyfao56)"},
+      "ndvi_soil": {"value": 0.15, "source": "ASSUMPTION: bare-soil NDVI, not fitted; to be checked by backtest"},
+      "ndvi_full": {"value": 0.85, "source": "ASSUMPTION: full-cover NDVI, not fitted; to be checked by backtest"}
+    }
+  }
+}

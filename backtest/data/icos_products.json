@@ -1,0 +1,3542 @@
+[
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/STLJfs_nkGgsI6sPzHNIgYE0",
+  "fileName": "SAEON_ZA-Uby_FLUXNET_2023-2024_v1.3_r1.zip",
+  "size": "29093732",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ZA-Uby",
+  "stationName": "Umhlabuyalingana",
+  "lat": "-27.3952",
+  "lon": "32.5889",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/9DBU3ZCobRStxNAcLBAZVtok",
+  "fileName": "SAEON_ZA-Spk_FLUXNET_2023-2024_v1.3_r1.zip",
+  "size": "29179848",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ZA-Spk",
+  "stationName": "Spioenkop",
+  "lat": "-28.70408",
+  "lon": "29.52614",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/pJ8V89PtIUTciotXGRT7PLki",
+  "fileName": "SAEON_ZA-Jks_FLUXNET_2024-2024_v1.3_r1.zip",
+  "size": "23347229",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ZA-Jks",
+  "stationName": "Jonkershoek",
+  "lat": "-33.99029",
+  "lon": "18.95543",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/7D87eYcefMtCZ131SjGfAEvu",
+  "fileName": "SAEON_ZA-BfS_FLUXNET_2020-2024_v1.3_r1.zip",
+  "size": "57813871",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ZA-BfS",
+  "stationName": "Benfontien Savanna",
+  "lat": "-28.8906",
+  "lon": "24.86112",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/L3b447DFrFAeO56M1P7eueuq",
+  "fileName": "SAEON_ZA-BfK_FLUXNET_2020-2024_v1.3_r1.zip",
+  "size": "60298711",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ZA-BfK",
+  "stationName": "Benfontien Karoo",
+  "lat": "-28.856483",
+  "lon": "24.83985",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/eX7IFzdl2WPUmwGiAQ3UI6RD",
+  "fileName": "KOF_KR-WdE_FLUXNET_2015-2018_v1.3_r1.zip",
+  "size": "54593523",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-WdE",
+  "stationName": "Wando Evergreen broadleaf forest",
+  "lat": "34.35956",
+  "lon": "126.67779",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/_55n5cfT3PjNVp8hjP7P_GLa",
+  "fileName": "KOF_KR-UAO_FLUXNET_2017-2019_v1.3_r1.zip",
+  "size": "40690493",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-UAO",
+  "stationName": "Uiseong Apple Orchard",
+  "lat": "36.41682",
+  "lon": "128.79904",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/GrvLMNKKbTTAaT6auJyS_xJj",
+  "fileName": "KOF_KR-TwC_FLUXNET_2024-2024_v1.3_r1.zip",
+  "size": "22115436",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-TwC",
+  "stationName": "Taehwa Coniferous forest",
+  "lat": "37.30493",
+  "lon": "127.31743",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/mgAw4w8tckxD-oe0sc6ng63R",
+  "fileName": "KOF_KR-TwB_FLUXNET_2024-2024_v1.3_r1.zip",
+  "size": "22784319",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-TwB",
+  "stationName": "Taehwa Broadleaf forest",
+  "lat": "37.30406",
+  "lon": "127.31395",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/VK7v0BF3ASSyw7wQ9MoSmq5T",
+  "fileName": "KOF_KR-SmM_FLUXNET_2015-2021_v1.3_r1.zip",
+  "size": "61656369",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-SmM",
+  "stationName": "Seolmacheon Mixed forest",
+  "lat": "37.93894",
+  "lon": "126.95471",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/6dwzloq1r3LGTyJ3wGCMxk0C",
+  "fileName": "KOF_KR-ScC_FLUXNET_2015-2018_v1.3_r1.zip",
+  "size": "54628335",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-ScC",
+  "stationName": "Samcheok Coniferous forest",
+  "lat": "37.22141",
+  "lon": "129.29863",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/4wKzVD2bJxwyGKiuPS3-bBLW",
+  "fileName": "KOF_KR-PcD_FLUXNET_2015-2018_v1.3_r1.zip",
+  "size": "55184960",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-PcD",
+  "stationName": "Pyeongchang Deciduous forest",
+  "lat": "37.48184",
+  "lon": "128.51604",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/o9_1GTQfYPO5QensOTM6NVIz",
+  "fileName": "KOF_KR-Nj2_FLUXNET_2023-2024_v1.3_r1.zip",
+  "size": "29351457",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-Nj2",
+  "stationName": "Naju Rice Paddy 2",
+  "lat": "35.0269",
+  "lon": "126.8219",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ho-3zaqsi4UTaFuVjoKo6tcK",
+  "fileName": "KOF_KR-Nj1_FLUXNET_2023-2024_v1.3_r1.zip",
+  "size": "28298770",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-Nj1",
+  "stationName": "Naju Rice Paddy 1",
+  "lat": "35.02753",
+  "lon": "126.82093",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/n2qEvY4a79bHgLKrB0qipAJ_",
+  "fileName": "KOF_KR-Kw2_FLUXNET_2016-2020_v1.3_r1.zip",
+  "size": "60305540",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-Kw2",
+  "stationName": "Gwangneung Deciduous forest",
+  "lat": "37.74869",
+  "lon": "127.14888",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/1RvfmPwtVEtfGXXUyFU-U7CT",
+  "fileName": "KOF_KR-Kw1_FLUXNET_2016-2020_v1.3_r1.zip",
+  "size": "61741455",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-Kw1",
+  "stationName": "Gwangneung Coniferous forest",
+  "lat": "37.74843",
+  "lon": "127.16261",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Wq4UZR5CnT0upivSDf3D8uUc",
+  "fileName": "KOF_KR-JjM_FLUXNET_2015-2018_v1.3_r1.zip",
+  "size": "51895147",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-JjM",
+  "stationName": "Jeju Mixed forest",
+  "lat": "33.31798",
+  "lon": "126.56772",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/6juxi14AX0CYmbd3rABrd8Qg",
+  "fileName": "KOF_KR-Hnm_FLUXNET_2016-2019_v1.3_r1.zip",
+  "size": "54194668",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-Hnm",
+  "stationName": "Haenam Farmland (HFK)",
+  "lat": "34.5538",
+  "lon": "126.56992",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/j9Kwyg7s5TpieDfvx4qg9WSR",
+  "fileName": "KOF_KR-HcM_FLUXNET_2015-2018_v1.3_r1.zip",
+  "size": "54350414",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-HcM",
+  "stationName": "Hongcheon Mixed forest",
+  "lat": "37.61938",
+  "lon": "127.84571",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/zfSFiNxBUci2ScUx6BSMynNA",
+  "fileName": "KOF_KR-HPK_FLUXNET_2016-2018_v1.3_r1.zip",
+  "size": "38573806",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-HPK",
+  "stationName": "Haenam Paddy-field",
+  "lat": "34.47722",
+  "lon": "126.48105",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/5Kb3vNI8mqBd_eETiy2wuWSK",
+  "fileName": "KOF_KR-GmS_FLUXNET_2017-2019_v1.3_r1.zip",
+  "size": "43883469",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-GmS",
+  "stationName": "Gimje Soybean Field",
+  "lat": "35.75089",
+  "lon": "126.81378",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Ssyo985v7h7CTmNEtvwTbQsE",
+  "fileName": "KOF_KR-GmR_FLUXNET_2017-2019_v1.3_r1.zip",
+  "size": "42074816",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-GmR",
+  "stationName": "Gimje Rice Paddy",
+  "lat": "35.74862",
+  "lon": "126.86432",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/0TTeq3pvvIas1NLdD2HMvWMC",
+  "fileName": "KOF_KR-GmP_FLUXNET_2011-2014_v1.3_r1.zip",
+  "size": "36770275",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-GmP",
+  "stationName": "Gimje Rice-barley double cropping Paddy Field",
+  "lat": "35.74502",
+  "lon": "126.85222",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/9yCK9zGwG8buI8JKtUWmROLY",
+  "fileName": "KOF_KR-CmF_FLUXNET_2012-2019_v1.3_r1.zip",
+  "size": "86205658",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-CmF",
+  "stationName": "Cheongmicheon Farmland",
+  "lat": "37.1599",
+  "lon": "127.65365",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/H8OP2ngO7ZJkZ087BV4UNehk",
+  "fileName": "KOF_KR-CRK_FLUXNET_2015-2021_v1.3_r1.zip",
+  "size": "81236089",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-CRK",
+  "stationName": "Cheorwon Rice paddy",
+  "lat": "38.2013",
+  "lon": "127.2497",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/m5QvlBnkK_hdAFCUpmGPzXTI",
+  "fileName": "KOF_KR-AdC_FLUXNET_2015-2018_v1.3_r1.zip",
+  "size": "51874282",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KR-AdC",
+  "stationName": "Anmyeondo Coniferous forest",
+  "lat": "36.50565",
+  "lon": "126.35909",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/xAfMteUmc_R9X2IXVuuRkSa3",
+  "fileName": "JPF_TH-Mae_FLUXNET_2005-2016_v1.3_r1.zip",
+  "size": "84819012",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_TH-Mae",
+  "stationName": "Mae Moh plantation",
+  "lat": "18.42264",
+  "lon": "99.72025",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/UeiwpE7b8yxM3HJis9B-clmg",
+  "fileName": "JPF_TH-Kog_FLUXNET_2005-2013_v1.3_r1.zip",
+  "size": "47951628",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_TH-Kog",
+  "stationName": "Kog-Ma Wateshed",
+  "lat": "18.81267",
+  "lon": "98.90225",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Rd4_p0MUa-ttK6FzOMLontdl",
+  "fileName": "JPF_RU-Tur_FLUXNET_2004-2004_v1.3_r1.zip",
+  "size": "20663339",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Tur",
+  "stationName": "Tura",
+  "lat": "64.208885",
+  "lon": "100.463554",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/EQli39tXbluFl81vRolYNGMQ",
+  "fileName": "JPF_RU-SkP_FLUXNET_2004-2014_v1.3_r1.zip",
+  "size": "81485341",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-SkP",
+  "stationName": "Yakutsk Spasskaya Pad larch",
+  "lat": "62.25471",
+  "lon": "129.61855",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/gHfX6bXPIDHzHbwVE7gWolFT",
+  "fileName": "JPF_RU-Sk2_FLUXNET_2004-2008_v1.3_r1.zip",
+  "size": "51303413",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Sk2",
+  "stationName": "Yakutsk Spasskaya Pad Pine",
+  "lat": "62.241356",
+  "lon": "129.65047",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/MTJpX3fgVsWfWNXaw59q41td",
+  "fileName": "JPF_RU-NeF_FLUXNET_2000-2006_v1.3_r1.zip",
+  "size": "57265108",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-NeF",
+  "stationName": "Neleger larch forest",
+  "lat": "62.315617",
+  "lon": "129.49997",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/BGkXJsSt5UVy1vDEw7Z30_7v",
+  "fileName": "JPF_RU-NeC_FLUXNET_2001-2006_v1.3_r1.zip",
+  "size": "50296881",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-NeC",
+  "stationName": "Neleger Cutover",
+  "lat": "62.314842",
+  "lon": "129.50008",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/62X8tlaZVNU1oh_okQKPco3F",
+  "fileName": "JPF_RU-NeB_FLUXNET_1999-2000_v1.3_r1.zip",
+  "size": "23010026",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-NeB",
+  "stationName": "Neleger Burnt Forest",
+  "lat": "62.325935",
+  "lon": "129.48734",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/b5nU8v8vNcUd71xRKtWQdbLl",
+  "fileName": "JPF_RU-Ege_FLUXNET_2010-2018_v1.3_r1.zip",
+  "size": "78886394",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Ege",
+  "stationName": "Elgeeii forest station",
+  "lat": "60.015514",
+  "lon": "133.824",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ug2smfKpeFuNSWo-g_LKn8R4",
+  "fileName": "JPF_MY-LHP_FLUXNET_2009-2019_v1.3_r1.zip",
+  "size": "73372282",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_MY-LHP",
+  "stationName": "Lambir Hills National Park",
+  "lat": "4.201007",
+  "lon": "114.03908",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/zPXpxhbjz_GLVPOMGg_bGCuF",
+  "fileName": "JPF_MN-Udg_FLUXNET_2010-2012_v1.3_r1.zip",
+  "size": "34449541",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_MN-Udg",
+  "stationName": "Udleg practice forest",
+  "lat": "48.25649",
+  "lon": "106.85116",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/wOMUKsoUO8-izEp_YKLHLZCH",
+  "fileName": "JPF_MN-Nkh_FLUXNET_2015-2020_v1.3_r1.zip",
+  "size": "70048107",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_MN-Nkh",
+  "stationName": "Nalaikh grassland",
+  "lat": "47.693592",
+  "lon": "107.48934",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/qboNh8q5SAEz1-NZO2ZA_s6V",
+  "fileName": "JPF_MN-Kbu_FLUXNET_2003-2008_v1.3_r1.zip",
+  "size": "75030054",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_MN-Kbu",
+  "stationName": "Kherlenbayan Ulaan",
+  "lat": "47.21397",
+  "lon": "108.737335",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/13XztQKfZ_zocPMte-r5AtGa",
+  "fileName": "JPF_MN-Hst_FLUXNET_2015-2020_v1.3_r1.zip",
+  "size": "68402680",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_MN-Hst",
+  "stationName": "Hustai grassland",
+  "lat": "47.59293",
+  "lon": "105.85497",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/7HZxy0gTRodMZnmJU6ak4vHi",
+  "fileName": "JPF_KH-Kmp_FLUXNET_2011-2014_v1.3_r1.zip",
+  "size": "32264561",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KH-Kmp",
+  "stationName": "Kampong Thom Lowland Dry Evergreen Forest",
+  "lat": "12.744579",
+  "lon": "105.47857",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Z6-dU8nagfkiCVVyjdnFCe5b",
+  "fileName": "JPF_JP-Ynf_FLUXNET_2013-2022_v1.3_r1.zip",
+  "size": "98384079",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Ynf",
+  "stationName": "Yona-Field Tower Site",
+  "lat": "26.751",
+  "lon": "128.21266",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/fI4RJEyaI5ASWeYLUEHZddaP",
+  "fileName": "JPF_JP-Yms_FLUXNET_2000-2023_v1.3_r1.zip",
+  "size": "157690018",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Yms",
+  "stationName": "Yamashiro forest meteorology research site",
+  "lat": "34.79028",
+  "lon": "135.84094",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/RweHalPjm2fLhREAqrL5xXXr",
+  "fileName": "JPF_JP-Toc_FLUXNET_2011-2014_v1.3_r1.zip",
+  "size": "49952724",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Toc",
+  "stationName": "Tomakomai Crane site",
+  "lat": "42.70973",
+  "lon": "141.5659",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/bCOHeAK5zPgbC1DQddUjFOlA",
+  "fileName": "JPF_JP-Tmk_FLUXNET_2001-2003_v1.3_r1.zip",
+  "size": "42549586",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Tmk",
+  "stationName": "Tomakomai Flux Research Site",
+  "lat": "42.739307",
+  "lon": "141.51483",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/0o-e7G4yJgKYUrpjjLe7w0lt",
+  "fileName": "JPF_JP-Tmd_FLUXNET_2005-2023_v1.3_r1.zip",
+  "size": "170739845",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Tmd",
+  "stationName": "Tomakomai Flux Research Site Disturbed",
+  "lat": "42.735912",
+  "lon": "141.52315",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/DJQ3QbfTvEPAp9g4mpyX5ABJ",
+  "fileName": "JPF_JP-Tkb_FLUXNET_2018-2019_v1.3_r1.zip",
+  "size": "24874123",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Tkb",
+  "stationName": "Tsukuba Experimental Watershed",
+  "lat": "36.173378",
+  "lon": "140.17664",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/YeHEbZudsqdYtd2YAggVVQL6",
+  "fileName": "JPF_JP-Tgf_FLUXNET_2002-2004_v1.3_r1.zip",
+  "size": "40582083",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Tgf",
+  "stationName": "Terrestrial Environment Research Center Tsukuba",
+  "lat": "36.11353",
+  "lon": "140.09488",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/U36jKvGfGICHSJO01Sk4jEZT",
+  "fileName": "JPF_JP-Tef_FLUXNET_2001-2023_v1.3_r1.zip",
+  "size": "219044184",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Tef",
+  "stationName": "CC-LaG Teshio Experimental Forest",
+  "lat": "45.05581",
+  "lon": "142.10712",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/3ISWj-Lz0wAZ7bHcl0axSoWX",
+  "fileName": "JPF_JP-Tak_FLUXNET_1998-2021_v1.3_r1.zip",
+  "size": "177599985",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Tak",
+  "stationName": "Takayama deciduous broadleaf forest site",
+  "lat": "36.146168",
+  "lon": "137.42311",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/CmfB4bc3xT3z8lqsrgqLbIGm",
+  "fileName": "JPF_JP-Ta2_FLUXNET_2005-2015_v1.3_r1.zip",
+  "size": "86566172",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Ta2",
+  "stationName": "Takayama evergreen coniferous forest site",
+  "lat": "36.140038",
+  "lon": "137.37071",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/eFz2nv5isK9K_5qkLLh6xxAF",
+  "fileName": "JPF_JP-Srk_FLUXNET_2010-2016_v1.3_r1.zip",
+  "size": "50129267",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Srk",
+  "stationName": "Shirakami Beech Forest Site",
+  "lat": "40.565483",
+  "lon": "140.12779",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/js_dXPMf2Ctz9mN3PGXCd2zb",
+  "fileName": "JPF_JP-Spp_FLUXNET_2000-2018_v1.3_r1.zip",
+  "size": "189128953",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Spp",
+  "stationName": "Sapporo forest meteorology research site",
+  "lat": "42.986843",
+  "lon": "141.38533",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/2odGxi9yoGlFUuRSPP0IvuyH",
+  "fileName": "JPF_JP-Shn_FLUXNET_2014-2020_v1.3_r1.zip",
+  "size": "43311854",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Shn",
+  "stationName": "Shinshu University Experimental Forest Site",
+  "lat": "35.865753",
+  "lon": "137.93256",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Pxix-JtRatuGLAPdOuOHUdzr",
+  "fileName": "JPF_JP-Sb2_FLUXNET_2007-2010_v1.3_r1.zip",
+  "size": "41331182",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Sb2",
+  "stationName": "Sarobetsu Mire Sasa",
+  "lat": "45.10339",
+  "lon": "141.6808",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/jOdJ40q12wURBzPC91Zd1Nrx",
+  "fileName": "JPF_JP-Sb1_FLUXNET_2007-2010_v1.3_r1.zip",
+  "size": "41524560",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Sb1",
+  "stationName": "Sarobetsu Mire Moss",
+  "lat": "45.104702",
+  "lon": "141.68797",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/OJmZUckooZnjzhPVMCBvUM85",
+  "fileName": "JPF_JP-SMF_FLUXNET_2002-2014_v1.3_r1.zip",
+  "size": "130374689",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-SMF",
+  "stationName": "Seto Mixed Forest Site",
+  "lat": "35.261528",
+  "lon": "137.07875",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/1LRw8IWf3BDKYACdAj8ouheV",
+  "fileName": "JPF_JP-Om2_FLUXNET_2022-2025_v1.3_r1.zip",
+  "size": "46757664",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Om2",
+  "stationName": "Farm field in Osaka Metropolitan University",
+  "lat": "34.542454",
+  "lon": "135.50822",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/rBNU9avgc7c4tNBrBRWVn22z",
+  "fileName": "JPF_JP-Nuf_FLUXNET_2000-2001_v1.3_r1.zip",
+  "size": "30104494",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Nuf",
+  "stationName": "Nagoya University Forest",
+  "lat": "35.152416",
+  "lon": "136.9719",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/qug7pUfVBqZPbH4yxh0PKfgu",
+  "fileName": "JPF_JP-NsM_FLUXNET_2004-2015_v1.3_r1.zip",
+  "size": "109765181",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-NsM",
+  "stationName": "NILGS Nasu Research Station Manure Application Plot",
+  "lat": "36.91604",
+  "lon": "139.936",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/9MJ6Rbkq1nwFkdiq96CdBSn_",
+  "fileName": "JPF_JP-NsC_FLUXNET_2004-2015_v1.3_r1.zip",
+  "size": "108920685",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-NsC",
+  "stationName": "NILGS Nasu Research Station Chemical Fertilizer Plot",
+  "lat": "36.915054",
+  "lon": "139.93684",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/jQlGe7FF-AoWrmDdvmU4gojQ",
+  "fileName": "JPF_JP-Nkm_FLUXNET_2018-2024_v1.3_r1.zip",
+  "size": "43705982",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Nkm",
+  "stationName": "Nishikoma Site",
+  "lat": "35.808064",
+  "lon": "137.83388",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/496cflc8MbepzdjJvLU5v4cg",
+  "fileName": "JPF_JP-Mse_FLUXNET_2002-2009_v1.3_r1.zip",
+  "size": "87273768",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Mse",
+  "stationName": "Mase rice paddy field",
+  "lat": "36.05393",
+  "lon": "140.02693",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Gq5ddm9JljmhtiELU0sAXSqu",
+  "fileName": "JPF_JP-MMF_FLUXNET_2004-2011_v1.3_r1.zip",
+  "size": "83832676",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-MMF",
+  "stationName": "Moshiri Mixd Forest Site",
+  "lat": "44.321884",
+  "lon": "142.26152",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/dP1aRNVfrf316N-6GTejUbIk",
+  "fileName": "JPF_JP-MBF_FLUXNET_2004-2011_v1.3_r1.zip",
+  "size": "86476238",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-MBF",
+  "stationName": "Moshiri Birch Forest Site",
+  "lat": "44.38406",
+  "lon": "142.31862",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/heCzGI50bl4F9zNueG7UvN3S",
+  "fileName": "JPF_JP-Kzw_FLUXNET_2001-2008_v1.3_r1.zip",
+  "size": "87708233",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Kzw",
+  "stationName": "Karuizawa",
+  "lat": "36.406788",
+  "lon": "138.57257",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ws7GV5BLwsKMaGOsosxNThpD",
+  "fileName": "JPF_JP-Khw_FLUXNET_2000-2021_v1.3_r1.zip",
+  "size": "87747581",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Khw",
+  "stationName": "Kahoku Experiment watershed",
+  "lat": "33.13658",
+  "lon": "130.70834",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/7QrnIdeknEjsBsGnEAcpIxqx",
+  "fileName": "JPF_JP-KaP_FLUXNET_1997-1997_v1.3_r1.zip",
+  "size": "21173692",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-KaP",
+  "stationName": "Kasumigaura lotus paddy",
+  "lat": "36.08313",
+  "lon": "140.24033",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/7mRmcdv3o0cDwldpdIkzLgqj",
+  "fileName": "JPF_JP-Hc3_FLUXNET_2005-2008_v1.3_r1.zip",
+  "size": "34465208",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Hc3",
+  "stationName": "Hachihama Experimental Farm Double Crop",
+  "lat": "34.539673",
+  "lon": "133.91173",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Tjd4S1VJ4LO2w5OrXE1eWhYl",
+  "fileName": "JPF_JP-Hc2_FLUXNET_2003-2004_v1.3_r1.zip",
+  "size": "22729115",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Hc2",
+  "stationName": "Hachihama Experimental Farm",
+  "lat": "34.537518",
+  "lon": "133.92755",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/eWDbJgVovrhZWWNoXdZwB1GA",
+  "fileName": "JPF_JP-Fmt_FLUXNET_2014-2023_v1.3_r1.zip",
+  "size": "68918186",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Fmt",
+  "stationName": "Field Museum Tama Hills",
+  "lat": "35.638744",
+  "lon": "139.37975",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/rPUO8Mfj9nIziKi_4d2XRkCh",
+  "fileName": "JPF_JP-Fjy_FLUXNET_2001-2021_v1.3_r1.zip",
+  "size": "205306507",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Fjy",
+  "stationName": "Fujiyoshida forest meteorology research site",
+  "lat": "35.45454",
+  "lon": "138.76225",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/5HO9DkOtLv80oPgti-3L_1gg",
+  "fileName": "JPF_JP-Fhk_FLUXNET_2006-2023_v1.3_r1.zip",
+  "size": "171013832",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Fhk",
+  "stationName": "Fuji Hokuroku Flux Observation Site",
+  "lat": "35.443554",
+  "lon": "138.7647",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/pMEqkfODsJGzX9RKz9kSDRtA",
+  "fileName": "JPF_JP-BBY_FLUXNET_2014-2020_v1.3_r1.zip",
+  "size": "68087646",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-BBY",
+  "stationName": "Bibai bog",
+  "lat": "43.322998",
+  "lon": "141.81065",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/6FLIvFghC2kn5jdWiKfUjx9S",
+  "fileName": "JPF_JP-Api_FLUXNET_2000-2022_v1.3_r2.zip",
+  "size": "215879909",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Api",
+  "stationName": "Appi forest meteorology research site",
+  "lat": "40.001358",
+  "lon": "140.93658",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/I6zVvSdiWHZ4d2Bal9dhQhoi",
+  "fileName": "JPF_ID-Pag_FLUXNET_2004-2018_v1.3_r1.zip",
+  "size": "87610036",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ID-Pag",
+  "stationName": "Palangkaraya undrained forest",
+  "lat": "-2.3239167",
+  "lon": "113.90439",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/RaxQP0fkOSWCXKIIhi7Bnevj",
+  "fileName": "JPF_ID-PaD_FLUXNET_2001-2017_v1.3_r1.zip",
+  "size": "100369825",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ID-PaD",
+  "stationName": "Palangkaraya Drained forest",
+  "lat": "-2.3460708",
+  "lon": "114.03641",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/MpLHCY-ecJkBO48pW8l-Tra-",
+  "fileName": "JPF_ID-PaB_FLUXNET_2004-2016_v1.3_r1.zip",
+  "size": "89619449",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ID-PaB",
+  "stationName": "Palangkaraya Drained Burnt forest",
+  "lat": "-2.340796",
+  "lon": "114.0379",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/eEffx70YefN_2F5Yx_sowWVR",
+  "fileName": "JPF_CN-Lsh_FLUXNET_2002-2006_v1.3_r1.zip",
+  "size": "60620720",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Lsh",
+  "stationName": "Laoshan",
+  "lat": "45.27984",
+  "lon": "127.57821",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/eHxCM4Gfk3Wo-yA1sym5lBRo",
+  "fileName": "JPF_CN-HaM_FLUXNET_2001-2014_v1.3_r1.zip",
+  "size": "127865808",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-HaM",
+  "stationName": "Haibei Alpine Tibet site",
+  "lat": "37.607433",
+  "lon": "101.332",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/bUNge2BcADhYDR1h9NHDXbem",
+  "fileName": "ICOS_UK-AMo_FLUXNET_2003-2024_v1.3_r1.zip",
+  "size": "216988571",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-AMo",
+  "stationName": "Auchencorth Moss",
+  "lat": "55.792545",
+  "lon": "-3.2436917",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/aOE0EYzWDWCQYR2pK8kcNORZ",
+  "fileName": "ICOS_SE-Svb_FLUXNET_2014-2026_v1.3_r1.zip",
+  "size": "131504154",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Svb",
+  "stationName": "Svartberget",
+  "lat": "64.25611",
+  "lon": "19.7745",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/GQrDp6EHJ5tDnk1lrE_74knW",
+  "fileName": "ICOS_SE-Sto_FLUXNET_2022-2026_v1.3_r1.zip",
+  "size": "59421829",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Sto",
+  "stationName": "Abisko-Stordalen",
+  "lat": "68.35594",
+  "lon": "19.045208",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/f6wXlakGyjFukPbYht4gE6fD",
+  "fileName": "ICOS_SE-Nor_FLUXNET_2018-2026_v1.3_r1.zip",
+  "size": "93596627",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Nor",
+  "stationName": "Norunda",
+  "lat": "60.0865",
+  "lon": "17.479504",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/FNzjM9hM-ZPX_w8jrn2i515I",
+  "fileName": "ICOS_SE-Myc_FLUXNET_2024-2026_v1.3_r1.zip",
+  "size": "34628357",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Myc",
+  "stationName": "Mycklemossen",
+  "lat": "58.36503",
+  "lon": "12.1694",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ijcFWAyxq647kIP7fgVh7KkC",
+  "fileName": "ICOS_SE-Htm_FLUXNET_2018-2026_v1.3_r1.zip",
+  "size": "97863307",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Htm",
+  "stationName": "Hyltemossa",
+  "lat": "56.09763",
+  "lon": "13.41897",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/KEU6reqLfaC-xwEaOooI-OdJ",
+  "fileName": "ICOS_SE-Deg_FLUXNET_2014-2026_v1.3_r1.zip",
+  "size": "132946382",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Deg",
+  "stationName": "Degero",
+  "lat": "64.18203",
+  "lon": "19.55654",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/QaTyVBkjr4Xn0AzPsq3LdYHj",
+  "fileName": "ICOS_NO-Hur_FLUXNET_2023-2026_v1.3_r1.zip",
+  "size": "39240882",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_NO-Hur",
+  "stationName": "Hurdal",
+  "lat": "60.37163",
+  "lon": "11.07949",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/YvbuYlKu2dPVWeO1x7ZVIB62",
+  "fileName": "ICOS_NL-Loo_FLUXNET_1997-2026_v1.3_r1.zip",
+  "size": "280929980",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_NL-Loo",
+  "stationName": "Loobos",
+  "lat": "52.166447",
+  "lon": "5.74355",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/29NWndTHqEfVHMiVvFYTVd9e",
+  "fileName": "ICOS_IT-TrF_FLUXNET_2012-2025_v1.3_r1.zip",
+  "size": "140819092",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-TrF",
+  "stationName": "Torgnon-LD",
+  "lat": "45.82376",
+  "lon": "7.56089",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/RwvbnA8B9w4xSHzjc5eV45CK",
+  "fileName": "ICOS_IT-Tor_FLUXNET_2008-2025_v1.3_r1.zip",
+  "size": "179133593",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Tor",
+  "stationName": "Torgnon",
+  "lat": "45.84444",
+  "lon": "7.578055",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/xmKHyUZQfcLwolbWA7E2YEYg",
+  "fileName": "ICOS_IT-SR2_FLUXNET_2013-2025_v1.3_r1.zip",
+  "size": "135079005",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-SR2",
+  "stationName": "San Rossore 2",
+  "lat": "43.73202",
+  "lon": "10.29091",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/525_tM0uR8c7nAB-2FjGiYH0",
+  "fileName": "ICOS_IT-Ren_FLUXNET_1999-2026_v1.3_r1.zip",
+  "size": "275940700",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Ren",
+  "stationName": "Renon",
+  "lat": "46.58686",
+  "lon": "11.43369",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/cJ06EF968EyjEU6NujzFDtgA",
+  "fileName": "ICOS_IT-Noe_FLUXNET_2022-2025_v1.3_r1.zip",
+  "size": "47908054",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Noe",
+  "stationName": "Arca di Noe - Le Prigionette",
+  "lat": "40.606174",
+  "lon": "8.151694",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/lMjgrvS4zf_ZimDSnpQ5cdtO",
+  "fileName": "ICOS_IT-Niv_FLUXNET_2019-2025_v1.3_r1.zip",
+  "size": "50030810",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Niv",
+  "stationName": "Nivolet",
+  "lat": "45.49091",
+  "lon": "7.13943",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/PPBHqoo4w7tey0vQFJMxOg4g",
+  "fileName": "ICOS_IT-MBo_FLUXNET_2003-2026_v1.3_r1.zip",
+  "size": "229149923",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-MBo",
+  "stationName": "Monte Bondone",
+  "lat": "46.01468",
+  "lon": "11.045831",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/K-GOp2uurEY--2x3wWw8n1Ac",
+  "fileName": "ICOS_IT-Lsn_FLUXNET_2016-2025_v1.3_r1.zip",
+  "size": "105350248",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Lsn",
+  "stationName": "Lison",
+  "lat": "45.740482",
+  "lon": "12.750297",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Xb6gBcoSkdkQMor4lpYhvGey",
+  "fileName": "ICOS_IT-Cp2_FLUXNET_2012-2026_v1.3_r1.zip",
+  "size": "129385899",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Cp2",
+  "stationName": "Castelporziano2",
+  "lat": "41.704266",
+  "lon": "12.357293",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/8UQ9ATu4z2i3sFoq4KVNw-kl",
+  "fileName": "ICOS_IT-BFt_FLUXNET_2019-2025_v1.3_r1.zip",
+  "size": "82244420",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-BFt",
+  "stationName": "Bosco Fontana",
+  "lat": "45.197754",
+  "lon": "10.741966",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/QcwmmUDyX5MXPIYAuDq5vepJ",
+  "fileName": "ICOS_IT-BCi_FLUXNET_2004-2026_v1.3_r1.zip",
+  "size": "210003479",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-BCi",
+  "stationName": "Borgo Cioffi",
+  "lat": "40.52375",
+  "lon": "14.957444",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/mU-KbJVlM50AB1sGJMwmKHsQ",
+  "fileName": "ICOS_IE-Cra_FLUXNET_2020-2025_v1.3_r1.zip",
+  "size": "49880909",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IE-Cra",
+  "stationName": "Clara Raised Bog",
+  "lat": "53.32308",
+  "lon": "-7.64177",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/xSezAuPuEWtDU6peOk5xDi8I",
+  "fileName": "ICOS_GL-ZaH_FLUXNET_2020-2025_v1.3_r1.zip",
+  "size": "36078980",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_GL-ZaH",
+  "stationName": "Zackenberg Gras",
+  "lat": "74.4733",
+  "lon": "-20.550869",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/g7DBBlgwdTCe3nl9u9jmFnfx",
+  "fileName": "ICOS_GL-ZaF_FLUXNET_2023-2026_v1.3_r1.zip",
+  "size": "32899674",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_GL-ZaF",
+  "stationName": "Zackenberg Fen",
+  "lat": "74.48152",
+  "lon": "-20.555773",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/QR9BBqqZy5rUr4szZgHgzgNX",
+  "fileName": "ICOS_GL-NuF_FLUXNET_2019-2025_v1.3_r1.zip",
+  "size": "39753109",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_GL-NuF",
+  "stationName": "Nuuk Fen",
+  "lat": "64.130936",
+  "lon": "-51.386066",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/kC7cwDWXS2G6vPpfo6iAKHPm",
+  "fileName": "ICOS_GL-Dsk_FLUXNET_2020-2025_v1.3_r1.zip",
+  "size": "71198629",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_GL-Dsk",
+  "stationName": "Disko",
+  "lat": "69.25349",
+  "lon": "-53.51413",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/NWyicIqnZ9k5ECe3WLq8BvOK",
+  "fileName": "ICOS_GF-Guy_FLUXNET_2004-2025_v1.3_r1.zip",
+  "size": "134371446",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_GF-Guy",
+  "stationName": "Guyaflux",
+  "lat": "5.2787",
+  "lon": "-52.9248",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/_bAXw_GAvp0HwOAaJJRMiIMQ",
+  "fileName": "ICOS_FR-Tou_FLUXNET_2018-2025_v1.3_r1.zip",
+  "size": "101964820",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Tou",
+  "stationName": "Toulouse",
+  "lat": "43.572857",
+  "lon": "1.37474",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/zX4eolqNe8xbcMScyT2IQ9XV",
+  "fileName": "ICOS_FR-Pue_FLUXNET_2000-2026_v1.3_r1.zip",
+  "size": "260191589",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Pue",
+  "stationName": "Puechabon",
+  "lat": "43.7413",
+  "lon": "3.5957",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/o3EABLXhro9lDfVSoil4ycG9",
+  "fileName": "ICOS_FR-Mej_FLUXNET_2019-2025_v1.3_r1.zip",
+  "size": "85212324",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Mej",
+  "stationName": "Mejusseaume",
+  "lat": "48.1184",
+  "lon": "-1.79635",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/sR44Fqgq6Ps64sv2PGGW-CCI",
+  "fileName": "ICOS_FR-Lus_FLUXNET_2022-2026_v1.3_r1.zip",
+  "size": "54517714",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Lus",
+  "stationName": "Lusignan",
+  "lat": "46.414246",
+  "lon": "0.1206518",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/FYx805VSU6_eRFBtYYMFqfhv",
+  "fileName": "ICOS_FR-Lqu_FLUXNET_2022-2026_v1.3_r1.zip",
+  "size": "54419694",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Lqu",
+  "stationName": "Laqueuille",
+  "lat": "45.6444",
+  "lon": "2.7349",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/zwxh7ZEI7AWEJOF5ggdX2bpK",
+  "fileName": "ICOS_FR-Lam_FLUXNET_2021-2024_v1.3_r1.zip",
+  "size": "53153749",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Lam",
+  "stationName": "Lamasquere",
+  "lat": "43.496437",
+  "lon": "1.237878",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/UMboDXr3WG42YyPcyuL7LzHW",
+  "fileName": "ICOS_FR-LGt_FLUXNET_2017-2025_v1.3_r1.zip",
+  "size": "87194816",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-LGt",
+  "stationName": "La Guette",
+  "lat": "47.322918",
+  "lon": "2.284102",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/PiV4aacfudwGs03sWmiN7Inf",
+  "fileName": "ICOS_FR-Hes_FLUXNET_1997-2026_v1.3_r1.zip",
+  "size": "249881019",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Hes",
+  "stationName": "Hesse",
+  "lat": "48.6741",
+  "lon": "7.06465",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/XSI0ETkKyVVydpJuL7ro3_rQ",
+  "fileName": "ICOS_FR-Gri_FLUXNET_2004-2026_v1.3_r1.zip",
+  "size": "236187437",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Gri",
+  "stationName": "Grignon",
+  "lat": "48.84422",
+  "lon": "1.95191",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/BDD6tNB_kw3VPrSdMRYYvY94",
+  "fileName": "ICOS_FR-Fon_FLUXNET_2019-2026_v1.3_r1.zip",
+  "size": "86719235",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Fon",
+  "stationName": "Fontainebleau-Barbeau",
+  "lat": "48.476357",
+  "lon": "2.780096",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/XBQ9Wp2zgNpR1XryvQv_76kg",
+  "fileName": "ICOS_FR-FBn_FLUXNET_2008-2025_v1.3_r1.zip",
+  "size": "163212130",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-FBn",
+  "stationName": "Font-Blanche",
+  "lat": "43.24079",
+  "lon": "5.67865",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/tqY53lt1dCh3HZXtN-rLGEp5",
+  "fileName": "ICOS_FR-EM2_FLUXNET_2017-2025_v1.3_r1.zip",
+  "size": "104274063",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-EM2",
+  "stationName": "Estrees-Mons A28",
+  "lat": "49.87211",
+  "lon": "3.02065",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Ioa3MKkE2Hh0vcxOxxeZ6vER",
+  "fileName": "ICOS_FR-CLt_FLUXNET_2019-2025_v1.3_r1.zip",
+  "size": "81251924",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-CLt",
+  "stationName": "Col du Lautaret",
+  "lat": "45.0414",
+  "lon": "6.41053",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/7T6UyUOXgB0j4LrWbPhTMu2P",
+  "fileName": "ICOS_FR-Bil_FLUXNET_2014-2026_v1.3_r1.zip",
+  "size": "135186065",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Bil",
+  "stationName": "Bilos",
+  "lat": "44.493652",
+  "lon": "-0.956092",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/e9BJpil-VqESMF4Y5NacyLVf",
+  "fileName": "ICOS_FR-Aur_FLUXNET_2005-2025_v1.3_r1.zip",
+  "size": "217638175",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Aur",
+  "stationName": "Aurade",
+  "lat": "43.54965",
+  "lon": "1.106103",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/yu-qbz8ScXeQLBioQVflVJIq",
+  "fileName": "ICOS_FI-Var_FLUXNET_2016-2025_v1.3_r1.zip",
+  "size": "111897986",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Var",
+  "stationName": "Varrio",
+  "lat": "67.7549",
+  "lon": "29.61",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/WKoKt_ZroOMtbWFLV05N5VPT",
+  "fileName": "ICOS_FI-Sod_FLUXNET_2023-2026_v1.3_r1.zip",
+  "size": "49987131",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Sod",
+  "stationName": "Sodankyla",
+  "lat": "67.36239",
+  "lon": "26.63859",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/yWlraPr2iQkRA0WKxpHF66uo",
+  "fileName": "ICOS_FI-Sii_FLUXNET_2018-2026_v1.3_r1.zip",
+  "size": "98072032",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Sii",
+  "stationName": "Siikaneva",
+  "lat": "61.83265",
+  "lon": "24.19285",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/-3pw1SnxM1V3GBvABP6y7J2R",
+  "fileName": "ICOS_FI-Lom_FLUXNET_2024-2026_v1.3_r1.zip",
+  "size": "27745101",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Lom",
+  "stationName": "Lompolojankka",
+  "lat": "67.99724",
+  "lon": "24.209179",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/lJA2M5NajEvo4LNStPxtuMhX",
+  "fileName": "ICOS_FI-Let_FLUXNET_2010-2025_v1.3_r1.zip",
+  "size": "156980927",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Let",
+  "stationName": "Lettosuo",
+  "lat": "60.64183",
+  "lon": "23.95952",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Ri-8dhfYd2gnZiThyc9UXyZe",
+  "fileName": "ICOS_FI-Ken_FLUXNET_2018-2025_v1.3_r1.zip",
+  "size": "80267690",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Ken",
+  "stationName": "Kenttarova",
+  "lat": "67.98721",
+  "lon": "24.24301",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ZcRUMOt7xGz-h-IHMeooad6z",
+  "fileName": "ICOS_FI-Hyy_FLUXNET_1997-2026_v1.3_r1.zip",
+  "size": "298368032",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Hyy",
+  "stationName": "Hyytiala",
+  "lat": "61.84741",
+  "lon": "24.29477",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/WfnJvocMuoIL6hVB8mRB3XxS",
+  "fileName": "ICOS_FI-Ant_FLUXNET_2022-2022_v1.3_r1.zip",
+  "size": "23665427",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Ant",
+  "stationName": "Anttila",
+  "lat": "63.16347",
+  "lon": "27.234991",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/WHuC_WF5n_uhQMHgTWaBSmrr",
+  "fileName": "ICOS_ES-LMa_FLUXNET_2020-2025_v1.3_r1.zip",
+  "size": "69625271",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-LMa",
+  "stationName": "Las Majadas de Tietar",
+  "lat": "39.94033",
+  "lon": "-5.77465",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SAV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/SdbEo5oQOf__w-zjUCIB3EOL",
+  "fileName": "ICOS_DK-Vng_FLUXNET_2020-2023_v1.3_r1.zip",
+  "size": "50557834",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DK-Vng",
+  "stationName": "Voulundgaard",
+  "lat": "56.037476",
+  "lon": "9.160709",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/lwXfRUVQCnuq5OcIe-F6tpib",
+  "fileName": "ICOS_DK-Sor_FLUXNET_1996-2024_v1.3_r1.zip",
+  "size": "260051743",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DK-Sor",
+  "stationName": "Soroe",
+  "lat": "55.48587",
+  "lon": "11.644645",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/JPkhq8xhlXF20Cijd7pHUd-T",
+  "fileName": "ICOS_DK-Skj_FLUXNET_2020-2022_v1.3_r1.zip",
+  "size": "35909382",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DK-Skj",
+  "stationName": "Skjern",
+  "lat": "55.91273",
+  "lon": "8.40481",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/n7btzoKSWqU_0YyN9omZcsdh",
+  "fileName": "ICOS_DK-RCW_FLUXNET_2023-2025_v1.3_r1.zip",
+  "size": "39749212",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DK-RCW",
+  "stationName": "Riso Campus Willow",
+  "lat": "55.680683",
+  "lon": "12.101398",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/vDQDn0hIxnz9gRAIc3duWbUE",
+  "fileName": "ICOS_DK-Gds_FLUXNET_2020-2022_v1.3_r1.zip",
+  "size": "33512081",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DK-Gds",
+  "stationName": "Gludsted Plantage",
+  "lat": "56.0737",
+  "lon": "9.3341",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/uRbHIsWzYaaZ1ry37NruE8_J",
+  "fileName": "ICOS_DE-Tha_FLUXNET_1996-2026_v1.3_r1.zip",
+  "size": "283966687",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Tha",
+  "stationName": "Tharandt",
+  "lat": "50.962597",
+  "lon": "13.565333",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/MF9WjbuAZ50-LUQgTsloGxSD",
+  "fileName": "ICOS_DE-RuW_FLUXNET_2012-2025_v1.3_r1.zip",
+  "size": "139805791",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-RuW",
+  "stationName": "Wustebach",
+  "lat": "50.50493",
+  "lon": "6.3309627",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/FBKUgeqFtfcDerDqdwv8lVSX",
+  "fileName": "ICOS_DE-RuS_FLUXNET_2011-2025_v1.3_r1.zip",
+  "size": "150395712",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-RuS",
+  "stationName": "Selhausen Juelich",
+  "lat": "50.865906",
+  "lon": "6.4471445",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Vs7FI6NOiRl_VH7Wkclfl_3t",
+  "fileName": "ICOS_DE-RuR_FLUXNET_2011-2025_v1.3_r1.zip",
+  "size": "151421636",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-RuR",
+  "stationName": "Rollesbroich",
+  "lat": "50.621914",
+  "lon": "6.304126",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/PSOHmMVaU1pPQSoGDVJRPW6y",
+  "fileName": "ICOS_DE-Msr_FLUXNET_2020-2025_v1.3_r1.zip",
+  "size": "67965267",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Msr",
+  "stationName": "Mooseurach",
+  "lat": "47.80918",
+  "lon": "11.456168",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/mlrCmtpUu7ZzEbkvYEK1DpMg",
+  "fileName": "ICOS_DE-Kli_FLUXNET_2004-2025_v1.3_r1.zip",
+  "size": "203638443",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Kli",
+  "stationName": "Klingenberg",
+  "lat": "50.893044",
+  "lon": "13.5223",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/0bxipd79PBLdqj1HiB_ghXvT",
+  "fileName": "ICOS_DE-Hzd_FLUXNET_2010-2025_v1.3_r1.zip",
+  "size": "119063916",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Hzd",
+  "stationName": "Hetzdorf",
+  "lat": "50.96381",
+  "lon": "13.48978",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/2gBr7fYbxeL6oMsRhXYEBWyx",
+  "fileName": "ICOS_DE-HoH_FLUXNET_2015-2026_v1.3_r1.zip",
+  "size": "130869663",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-HoH",
+  "stationName": "Hohes Holz",
+  "lat": "52.08656",
+  "lon": "11.22235",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/AG7-cp4Sxh0AESZmLri2F-At",
+  "fileName": "ICOS_DE-Har_FLUXNET_2020-2025_v1.3_r1.zip",
+  "size": "69387246",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Har",
+  "stationName": "Hartheim",
+  "lat": "47.93391",
+  "lon": "7.59814",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/VsQ1NTQTcEO5zRyfZjrBtkQa",
+  "fileName": "ICOS_DE-Hai_FLUXNET_2000-2025_v1.3_r1.zip",
+  "size": "260409406",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Hai",
+  "stationName": "Hainich",
+  "lat": "51.079212",
+  "lon": "10.452168",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/S17epXE0dyBL-CiW8bGF9CNu",
+  "fileName": "ICOS_DE-Gwg_FLUXNET_2023-2025_v1.3_r1.zip",
+  "size": "31252060",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Gwg",
+  "stationName": "Graswang",
+  "lat": "47.570835",
+  "lon": "11.032604",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/NY1UuClNrkeU0UUXUUoECmLZ",
+  "fileName": "ICOS_DE-GsB_FLUXNET_2015-2025_v1.3_r1.zip",
+  "size": "115043791",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-GsB",
+  "stationName": "Grosses Bruch",
+  "lat": "52.029648",
+  "lon": "11.10478",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/X0926p0IGvNrpp1IJMw0tdUd",
+  "fileName": "ICOS_DE-Gri_FLUXNET_2004-2025_v1.3_r1.zip",
+  "size": "183687632",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Gri",
+  "stationName": "Grillenburg",
+  "lat": "50.950005",
+  "lon": "13.512533",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/WoO8JdfzAUBObbdbra782Pap",
+  "fileName": "ICOS_DE-Geb_FLUXNET_2020-2026_v1.3_r1.zip",
+  "size": "78553577",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Geb",
+  "stationName": "Gebesee",
+  "lat": "51.09973",
+  "lon": "10.91463",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/eETzHZHUPeVJNjSa3fM24SeW",
+  "fileName": "ICOS_DE-Fen_FLUXNET_2023-2025_v1.3_r1.zip",
+  "size": "35602459",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Fen",
+  "stationName": "Fendt",
+  "lat": "47.832905",
+  "lon": "11.060701",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/6vn4QkbfvwSPJpiJvhtI7OcR",
+  "fileName": "ICOS_DE-Brs_FLUXNET_2023-2025_v1.3_r1.zip",
+  "size": "38862438",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Brs",
+  "stationName": "Braunschweig",
+  "lat": "52.29663",
+  "lon": "10.44871",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/D540Aaoeoyu95tgun4okCWUT",
+  "fileName": "ICOS_DE-Amv_FLUXNET_2023-2025_v1.3_r1.zip",
+  "size": "42935223",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Amv",
+  "stationName": "Amtsvenn",
+  "lat": "52.1757",
+  "lon": "6.95537",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ezclJdsSs31JZaOdM4gbLbIn",
+  "fileName": "ICOS_CZ-wet_FLUXNET_2006-2025_v1.3_r1.zip",
+  "size": "198772030",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CZ-wet",
+  "stationName": "Trebon",
+  "lat": "49.02465",
+  "lon": "14.77035",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/nyTyuAYYMFqBPZDS9y0543dx",
+  "fileName": "ICOS_CZ-Lnz_FLUXNET_2015-2026_v1.3_r1.zip",
+  "size": "126359262",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CZ-Lnz",
+  "stationName": "Lanzhot",
+  "lat": "48.68155",
+  "lon": "16.946331",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/jFai8tDYa4LFIrBMKJ_Kx3I1",
+  "fileName": "ICOS_CZ-BK1_FLUXNET_2004-2026_v1.3_r1.zip",
+  "size": "230041464",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CZ-BK1",
+  "stationName": "Bily Kriz forest",
+  "lat": "49.502075",
+  "lon": "18.536882",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/CXf4ux17dTFu2JrV9Tu_bSk_",
+  "fileName": "ICOS_CH-Dav_FLUXNET_1997-2026_v1.3_r1.zip",
+  "size": "300945651",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Dav",
+  "stationName": "Davos",
+  "lat": "46.81533",
+  "lon": "9.85591",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/4yxFg7HiX3wwcXY7t16U5Jec",
+  "fileName": "ICOS_CD-Ygb_FLUXNET_2020-2025_v1.3_r1.zip",
+  "size": "48416666",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CD-Ygb",
+  "stationName": "Yangambi",
+  "lat": "0.814444",
+  "lon": "24.502472",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/PZh-nxtZjfrymcZJu9U4uLBJ",
+  "fileName": "ICOS_BE-Vie_FLUXNET_1996-2026_v1.3_r1.zip",
+  "size": "282790425",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BE-Vie",
+  "stationName": "Vielsalm",
+  "lat": "50.304962",
+  "lon": "5.998099",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/msdWDk98FR3UQUqS9OM2N32V",
+  "fileName": "ICOS_BE-Maa_FLUXNET_2016-2026_v1.3_r1.zip",
+  "size": "116588064",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BE-Maa",
+  "stationName": "Maasmechelen",
+  "lat": "50.97987",
+  "lon": "5.631851",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/1u2xQ5XcQoX0j2wJiZcyDP3M",
+  "fileName": "ICOS_BE-Lon_FLUXNET_2004-2024_v1.3_r1.zip",
+  "size": "216646023",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BE-Lon",
+  "stationName": "Lonzee",
+  "lat": "50.55162",
+  "lon": "4.746234",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/geqYNPk-fvkZDGtnJI-sq1Je",
+  "fileName": "ICOS_BE-Dor_FLUXNET_2011-2024_v1.3_r1.zip",
+  "size": "141641044",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BE-Dor",
+  "stationName": "Dorinne",
+  "lat": "50.311874",
+  "lon": "4.968113",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/jqFMpuyScNG1HdiOILFit4Dh",
+  "fileName": "ICOS_BE-Bra_FLUXNET_1999-2025_v1.3_r1.zip",
+  "size": "233719082",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BE-Bra",
+  "stationName": "Brasschaat",
+  "lat": "51.30761",
+  "lon": "4.51984",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/PrWE9DMXpEen7ZyDmWcJ1EnX",
+  "fileName": "FLX_VU-Coc_FLUXNET_2001-2004_v1.3_r1.zip",
+  "size": "35157633",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_VU-Coc",
+  "stationName": "Cocoflux",
+  "lat": "-15.444423",
+  "lon": "167.19131",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/L1sLzW4BHbMbHpflq7z4oWu3",
+  "fileName": "FLX_ML-Kem_FLUXNET_2007-2009_v1.3_r1.zip",
+  "size": "34824249",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ML-Kem",
+  "stationName": "Kelma",
+  "lat": "15.2875",
+  "lon": "-1.543056",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WSA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/-dDx4tGmNR4X0U5IZ1WtSjW_",
+  "fileName": "FLX_KE-Mkt_FLUXNET_2019-2024_v1.3_r1.zip",
+  "size": "58424001",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KE-Mkt",
+  "stationName": "Maktau",
+  "lat": "-3.425859",
+  "lon": "38.140663",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/NIXGBI6SVBOylbOHTxoujI4u",
+  "fileName": "FLX_KE-Kpt_FLUXNET_2018-2024_v1.3_r1.zip",
+  "size": "64145574",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KE-Kpt",
+  "stationName": "Kapiti",
+  "lat": "-1.6141866",
+  "lon": "37.13311",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/NrkrMl1trwC3-wWAgM4sxHvE",
+  "fileName": "FLX_KE-Chk_FLUXNET_2022-2024_v1.3_r1.zip",
+  "size": "31772375",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KE-Chk",
+  "stationName": "Choke",
+  "lat": "-3.6663",
+  "lon": "38.350185",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WSA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/QFscsSwywYpuelYVvg63oaJu",
+  "fileName": "FLX_KE-Aq2_FLUXNET_2022-2024_v1.3_r1.zip",
+  "size": "32570852",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KE-Aq2",
+  "stationName": "Ausquest 2",
+  "lat": "-1.566199",
+  "lon": "37.100166",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/i4EXIipasIDWP9d8IyG0XJjN",
+  "fileName": "FLX_KE-Aq1_FLUXNET_2019-2019_v1.3_r1.zip",
+  "size": "21244702",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_KE-Aq1",
+  "stationName": "Ausquest 1",
+  "lat": "-1.57781",
+  "lon": "37.067047",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/rsYb0zy_xvfl9slMBeWC4Zbs",
+  "fileName": "FLX_JP-Ozm_FLUXNET2015_FULLSET_2015-2016_beta-3.zip",
+  "size": "21806143",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_JP-Ozm",
+  "stationName": "Oizumi Urban Park",
+  "lat": "34.56347",
+  "lon": "135.53348",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_URB"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/PPguZ8g7dO0HMK1i3qLRsXdQ",
+  "fileName": "FLX_ID-JOP_FLUXNET_2014-2024_v1.3_r1.zip",
+  "size": "79200943",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ID-JOP",
+  "stationName": "Jambi Oil Palm Plantation",
+  "lat": "-1.69306",
+  "lon": "103.39139",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/5RA91yfzwElWmxeRuI5iXuf6",
+  "fileName": "FLX_HK-MPM_FLUXNET_2016-2018_v1.3_r1.zip",
+  "size": "42202849",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_HK-MPM",
+  "stationName": "Mai Po Mangrove",
+  "lat": "22.498167",
+  "lon": "114.029236",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/1vAdB1FBLLkHIkzB3V8rt8tT",
+  "fileName": "FLX_DE-SfN_FLUXNET2015_FULLSET_2012-2014_beta-3.zip",
+  "size": "36342969",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-SfN",
+  "stationName": "Schechenfilz Nord",
+  "lat": "47.80639",
+  "lon": "11.3275",
+  "eco": ""
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/0otMxT1Mr9Rl-4ll8oU2wXip",
+  "fileName": "FLX_DE-Dgw_FLUXNET2015_FULLSET_2015-2018_beta-3.zip",
+  "size": "43872874",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Dgw",
+  "stationName": "Dagowsee",
+  "lat": "53.15141",
+  "lon": "13.054275",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WAT"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/yRjv2loTLxMX5_elU4L2aqKw",
+  "fileName": "FLX_CR-AqC_FLUXNET_2009-2016_v1.3_r1.zip",
+  "size": "61951388",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CR-AqC",
+  "stationName": "Aquiares Coffee-Flux",
+  "lat": "9.938369",
+  "lon": "-83.7289",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/tLlXyXLFaO-WvTNGORpwMidp",
+  "fileName": "FLX_CN-SnB_FLUXNET_2021-2021_v1.3_r1.zip",
+  "size": "21268954",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-SnB",
+  "stationName": "Shanghai Beihu wetland",
+  "lat": "31.6905",
+  "lon": "121.6563",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/wsgSpuYtd8ayCmJtInYU4yhz",
+  "fileName": "FLX_CN-Sb2_FLUXNET_2020-2024_v1.3_r1.zip",
+  "size": "59787966",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Sb2",
+  "stationName": "Saihanba young Scotch pine",
+  "lat": "42.39117",
+  "lon": "117.37017",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/HaDwZsk1Ot6vY7zDB1eLSeCg",
+  "fileName": "FLX_CN-Sb1_FLUXNET_2020-2024_v1.3_r1.zip",
+  "size": "59755413",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Sb1",
+  "stationName": "Saihanba mature larch",
+  "lat": "42.40907",
+  "lon": "117.31461",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/OAWAcJkAaBET5Vn-Kx2tRvsb",
+  "fileName": "FLX_BW-Nxr_FLUXNET_2019-2020_v1.3_r1.zip",
+  "size": "23635005",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BW-Nxr",
+  "stationName": "Nxaraga",
+  "lat": "-19.548056",
+  "lon": "23.179167",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/4tYejpkp-7QNMRnCzgTb9TY1",
+  "fileName": "FLX_BW-Gum_FLUXNET_2018-2020_v1.3_r1.zip",
+  "size": "39778085",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BW-Gum",
+  "stationName": "Guma",
+  "lat": "-18.964722",
+  "lon": "22.37111",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/lmKaXHkgzrf_23otyyDTLet5",
+  "fileName": "FLX_BJ-Nhu_FLUXNET_2008-2017_v1.3_r1.zip",
+  "size": "94936891",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BJ-Nhu",
+  "stationName": "Nalohou",
+  "lat": "9.74",
+  "lon": "1.6",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SAV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/bqZsKSML866fLpZmVsqJ1vC4",
+  "fileName": "FLX_BJ-Db1_FLUXNET_2022-2024_v1.3_r1.zip",
+  "size": "34946020",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BJ-Db1",
+  "stationName": "DANGBO",
+  "lat": "6.607338",
+  "lon": "2.543043",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/3e0Uvz3eNFxHLxOGL6H7ciVC",
+  "fileName": "FLX_BJ-Bfg_FLUXNET_2008-2017_v1.3_r1.zip",
+  "size": "89598947",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BJ-Bfg",
+  "stationName": "Bellefoungou",
+  "lat": "9.791",
+  "lon": "1.718",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/4JqFnFICrXRzbEbd4p5YFNee",
+  "fileName": "EUF_ZM-Mon_FLUXNET_2007-2009_v1.3_r2.zip",
+  "size": "36063975",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ZM-Mon",
+  "stationName": "Mongu",
+  "lat": "-15.4391",
+  "lon": "23.2525",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/RGCl92O_6QSyV-KQgiCPlsXv",
+  "fileName": "EUF_UK-HpF_FLUXNET_2023-2025_v1.3_r1.zip",
+  "size": "44842209",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-HpF",
+  "stationName": "Hope Farm",
+  "lat": "52.24809",
+  "lon": "-0.0498267",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/0bh_V0qcsU1jVRdLmTN38MrV",
+  "fileName": "EUF_UK-HgF_FLUXNET_2023-2024_v1.3_r1.zip",
+  "size": "28638815",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-HgF",
+  "stationName": "High Fen",
+  "lat": "52.552177",
+  "lon": "0.515057",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Zwvqtl-S3Cv2vQ969t-syBkz",
+  "fileName": "EUF_UK-Gwr_FLUXNET_2022-2025_v1.3_r1.zip",
+  "size": "55892174",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-Gwr",
+  "stationName": "Glenwherry",
+  "lat": "54.85464",
+  "lon": "-5.988278",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/sYEZMyw8YWYYbIGSrtbzTys1",
+  "fileName": "EUF_UK-Gnn_FLUXNET_2022-2025_v1.3_r1.zip",
+  "size": "56293379",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-Gnn",
+  "stationName": "Glenullin",
+  "lat": "54.96185",
+  "lon": "-6.760763",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/_sXbYddwkHiI1X9uPGVzmewo",
+  "fileName": "EUF_UK-GaB_FLUXNET_2022-2025_v1.3_r1.zip",
+  "size": "56529930",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-GaB",
+  "stationName": "Garry Bog",
+  "lat": "55.10994",
+  "lon": "-6.529928",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/37X3GrWRM7AEcdIt8WRasg1l",
+  "fileName": "EUF_UK-Cvn_FLUXNET_2023-2024_v1.3_r1.zip",
+  "size": "27161665",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-Cvn",
+  "stationName": "Coveney",
+  "lat": "52.43339",
+  "lon": "0.162177",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/B7iOKKJXFrHDoZf6w2ZLth_y",
+  "fileName": "EUF_UK-CCr_FLUXNET_2022-2025_v1.3_r1.zip",
+  "size": "55802685",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-CCr",
+  "stationName": "Cors Caron",
+  "lat": "52.2542",
+  "lon": "-3.93357",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/JGdYqMj6WfcCoQJZQbTGxt9n",
+  "fileName": "EUF_UK-BnB_FLUXNET_2021-2025_v1.3_r1.zip",
+  "size": "62429154",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-BnB",
+  "stationName": "Ballynahone Bog",
+  "lat": "54.82326",
+  "lon": "-6.66984",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/1ZUP9SKUkeaLUfCFH8xeYoi4",
+  "fileName": "EUF_UK-Ags_FLUXNET_2023-2025_v1.3_r1.zip",
+  "size": "38300095",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_UK-Ags",
+  "stationName": "Anglesey",
+  "lat": "53.3097",
+  "lon": "-4.30044",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/X5l5NTHw0ymH6hudWtJMskZe",
+  "fileName": "EUF_SN-Nkr_FLUXNET_2018-2024_v1.3_r1.zip",
+  "size": "85663194",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SN-Nkr",
+  "stationName": "Niakhar",
+  "lat": "14.49581",
+  "lon": "-16.45357",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/KdzlABR5BBUtxi1T7yzDK4_Z",
+  "fileName": "EUF_SN-Dhr_FLUXNET_2010-2022_v1.3_r1.zip",
+  "size": "110875471",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SN-Dhr",
+  "stationName": "Dahra",
+  "lat": "15.40256",
+  "lon": "-15.43214",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/su1D8nSqFTMQqji9sxkE6BFD",
+  "fileName": "EUF_SJ-Adv_FLUXNET_2012-2014_v1.3_r1.zip",
+  "size": "31124239",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SJ-Adv",
+  "stationName": "Adventdalen",
+  "lat": "78.186",
+  "lon": "15.923",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/zZioWvKJVU9_vq3xFG9pr7F7",
+  "fileName": "EUF_SE-Trb_FLUXNET_2021-2023_v1.3_r1.zip",
+  "size": "38166862",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Trb",
+  "stationName": "Trollberget",
+  "lat": "64.180916",
+  "lon": "19.837284",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/QnQ0hNAqbtj_erSyXrx7UQOl",
+  "fileName": "EUF_SE-St1_FLUXNET_2012-2019_v1.3_r1.zip",
+  "size": "75929673",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-St1",
+  "stationName": "Stordalen grassland",
+  "lat": "68.35415",
+  "lon": "19.050333",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/SYMcSsHs0Hu8XkbwZd8W8lg7",
+  "fileName": "EUF_SE-Srj_FLUXNET_2020-2023_v1.3_r1.zip",
+  "size": "47059404",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Srj",
+  "stationName": "Storjarn",
+  "lat": "64.17498",
+  "lon": "19.56381",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/zCQ_a4ZQA3TU9BlDvoZorna3",
+  "fileName": "EUF_SE-Ros_FLUXNET_2014-2020_v1.3_r1.zip",
+  "size": "79924125",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Ros",
+  "stationName": "Rosinedal-3",
+  "lat": "64.16522",
+  "lon": "19.79074",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ceCFqxWCfMwYjupqvJqiXAPr",
+  "fileName": "EUF_SE-Lnn_FLUXNET_2014-2018_v1.3_r1.zip",
+  "size": "67874153",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Lnn",
+  "stationName": "Lanna",
+  "lat": "58.34063",
+  "lon": "13.101768",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Z3YbTS2DrdSQ0M2ee0yvjl1R",
+  "fileName": "EUF_SE-Hmr_FLUXNET_2020-2023_v1.3_r1.zip",
+  "size": "50203394",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-Hmr",
+  "stationName": "Halmyran",
+  "lat": "64.15955",
+  "lon": "19.551497",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/d2E6mfPz9El6AVmc8bV_2xnA",
+  "fileName": "EUF_SE-HfM_FLUXNET_2020-2023_v1.3_r1.zip",
+  "size": "49007924",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SE-HfM",
+  "stationName": "Halsingfors mire",
+  "lat": "64.15955",
+  "lon": "19.551497",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/fVuGjYQ3WMlneX1PCnbxiEaR",
+  "fileName": "EUF_SD-Dem_FLUXNET_2007-2009_v1.3_r1.zip",
+  "size": "34914288",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_SD-Dem",
+  "stationName": "Demokeya",
+  "lat": "13.2829",
+  "lon": "30.4783",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SAV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/f8QnEpCdYzurGpSNcvdrv03n",
+  "fileName": "EUF_RU-Ha1_FLUXNET_2002-2004_v1.3_r1.zip",
+  "size": "36205459",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Ha1",
+  "stationName": "Hakasia steppe",
+  "lat": "54.72517",
+  "lon": "90.00215",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/WDPOlLyjxJ7H43yO9QgAoOfj",
+  "fileName": "EUF_RU-Fyo_FLUXNET_1998-2025_v1.3_r1.zip",
+  "size": "276327923",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Fyo",
+  "stationName": "Fyodorovskoye",
+  "lat": "56.46153",
+  "lon": "32.922085",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/hItM4WCQqnQ68mQo9OvhTd6F",
+  "fileName": "EUF_RU-Fy4_FLUXNET_2015-2020_v1.3_r1.zip",
+  "size": "63148045",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Fy4",
+  "stationName": "Fyodorovskoye bog",
+  "lat": "56.4727",
+  "lon": "33.0413",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/U-mck6ENkctdQRlTnynkSDWV",
+  "fileName": "EUF_RU-Fy3_FLUXNET_2016-2018_v1.3_r1.zip",
+  "size": "36317276",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Fy3",
+  "stationName": "Fyodorovskoye Clear-cut",
+  "lat": "56.4435",
+  "lon": "33.0478",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/-FEeYNcv7UkMTJ4l72w8CLL9",
+  "fileName": "EUF_RU-Fy2_FLUXNET_2015-2025_v1.3_r1.zip",
+  "size": "119353741",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Fy2",
+  "stationName": "Fyodorovskoye dry spruce stand",
+  "lat": "56.4476",
+  "lon": "32.90188",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/UMw2SbLULWP0FP70WzGnJ08C",
+  "fileName": "EUF_RU-Che_FLUXNET_2013-2021_v1.3_r1.zip",
+  "size": "45079117",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Che",
+  "stationName": "Cherski",
+  "lat": "68.61304",
+  "lon": "161.34143",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/3xSmQwrTa-Ufn-rKi86qwxkR",
+  "fileName": "EUF_RU-Ch2_FLUXNET_2014-2021_v1.3_r1.zip",
+  "size": "77618652",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_RU-Ch2",
+  "stationName": "Cherski reference",
+  "lat": "68.61689",
+  "lon": "161.35089",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/IgPrzHJAztMihbt5A6F8ftZP",
+  "fileName": "EUF_PA-SPs_FLUXNET_2007-2010_v1.3_r1.zip",
+  "size": "35720984",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_PA-SPs",
+  "stationName": "Sardinilla-Pasture",
+  "lat": "9.31378",
+  "lon": "-79.63143",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/S5_n_nsdmDH3A4K0uyIhcfyM",
+  "fileName": "EUF_PA-SPn_FLUXNET_2007-2009_v1.3_r1.zip",
+  "size": "32588002",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_PA-SPn",
+  "stationName": "Sardinilla Plantation",
+  "lat": "9.31814",
+  "lon": "-79.6346",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/8LmO1TBatCif6_LoU8kHEcPy",
+  "fileName": "EUF_NO-Ikr_FLUXNET_2019-2022_v1.3_r1.zip",
+  "size": "36650732",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_NO-Ikr",
+  "stationName": "Iskoras",
+  "lat": "69.34",
+  "lon": "25.3",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/kDrWIYdOIg7jxi4gGpiV2vMK",
+  "fileName": "EUF_NO-Fns_FLUXNET_2017-2024_v1.3_r1.zip",
+  "size": "77470651",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_NO-Fns",
+  "stationName": "Finse",
+  "lat": "60.59384",
+  "lon": "7.5271025",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SNO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/KkqfRlPbN-GjF2nQXq4edZ6A",
+  "fileName": "EUF_NO-And_FLUXNET_2008-2014_v1.3_r1.zip",
+  "size": "77266174",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_NO-And",
+  "stationName": "Andoya",
+  "lat": "69.1422",
+  "lon": "16.01975",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/NjPFe8mMhEmbG6xHDtKSw-sx",
+  "fileName": "EUF_NL-Vkp_FLUXNET_2014-2025_v1.3_r1.zip",
+  "size": "126229278",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_NL-Vkp",
+  "stationName": "Veenkampen",
+  "lat": "51.980934",
+  "lon": "5.618825",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/PQYUjF6JlyFnKvHTnv1BfTHn",
+  "fileName": "EUF_NL-Hrw_FLUXNET_2001-2010_v1.3_r2.zip",
+  "size": "94325656",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_NL-Hrw",
+  "stationName": "Haarweg",
+  "lat": "51.972466",
+  "lon": "5.641228",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/I0dHiKkliSYYaY8YAFuTO2MB",
+  "fileName": "EUF_IT-SRo_FLUXNET_1999-2012_v1.3_r1.zip",
+  "size": "142662641",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-SRo",
+  "stationName": "San Rossore",
+  "lat": "43.72786",
+  "lon": "10.284445",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/GGulpe22_jQxGfff-1ulxR8a",
+  "fileName": "EUF_IT-Ro2_FLUXNET_2002-2012_v1.3_r2.zip",
+  "size": "109357851",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Ro2",
+  "stationName": "Roccarespampani 2",
+  "lat": "42.39026",
+  "lon": "11.92093",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/bWEnFVz5SrMe27oyKA5hHirX",
+  "fileName": "EUF_IT-Ro1_FLUXNET_2000-2008_v1.3_r1.zip",
+  "size": "89864675",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Ro1",
+  "stationName": "Roccarespampani 1",
+  "lat": "42.40812",
+  "lon": "11.93001",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/luWKnq47m8-eiwpb7TlQmKUQ",
+  "fileName": "EUF_IT-PT1_FLUXNET_2002-2004_v1.3_r1.zip",
+  "size": "41704280",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-PT1",
+  "stationName": "Parco Ticino forest",
+  "lat": "45.20087",
+  "lon": "9.061039",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/AFk3rC6RlVTrfbe2tNBYfSCG",
+  "fileName": "EUF_IT-NiG_FLUXNET_2020-2024_v1.3_r1.zip",
+  "size": "64978699",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-NiG",
+  "stationName": "Nivolet grassland",
+  "lat": "45.51919",
+  "lon": "7.171434",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/5BjUNIFTfUg-gh1sC_mGsrkc",
+  "fileName": "EUF_IT-MtP_FLUXNET_2014-2019_v1.3_r1.zip",
+  "size": "67525420",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-MtP",
+  "stationName": "Muntatschinig Pasture",
+  "lat": "46.684284",
+  "lon": "10.5851755",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/cULijyah3HGsQjOGEpbrHEZu",
+  "fileName": "EUF_IT-MtM_FLUXNET_2014-2019_v1.3_r1.zip",
+  "size": "71209516",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-MtM",
+  "stationName": "Muntatschinig Meadow",
+  "lat": "46.687134",
+  "lon": "10.579597",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/XKQE9dtAKgDbkY1obJ-3Ym4s",
+  "fileName": "EUF_IT-Lav_FLUXNET_2003-2020_v1.3_r1.zip",
+  "size": "164055875",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Lav",
+  "stationName": "Lavarone",
+  "lat": "45.9562",
+  "lon": "11.28132",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/oMua13T8N3ukhoEtyKD76Su2",
+  "fileName": "EUF_IT-Cpz_FLUXNET_2001-2008_v1.3_r1.zip",
+  "size": "84930193",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Cpz",
+  "stationName": "Castelporziano",
+  "lat": "41.70525",
+  "lon": "12.376106",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/MAXpa5PAn0L1aK-6zb-kcOs7",
+  "fileName": "EUF_IT-CA3_FLUXNET_2011-2014_v1.3_r2.zip",
+  "size": "48243353",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-CA3",
+  "stationName": "Castel d'Asso3",
+  "lat": "42.38",
+  "lon": "12.0222",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/4nX2fCUltlN4ejOTF1KYMSzf",
+  "fileName": "EUF_IT-CA2_FLUXNET_2011-2014_v1.3_r2.zip",
+  "size": "49573714",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-CA2",
+  "stationName": "Castel d'Asso2",
+  "lat": "42.37722",
+  "lon": "12.026039",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/JaiQh6fJCspNapWnx20Mx_-J",
+  "fileName": "EUF_IT-CA1_FLUXNET_2011-2014_v1.3_r1.zip",
+  "size": "50215832",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-CA1",
+  "stationName": "Castel d'Asso1",
+  "lat": "42.38041",
+  "lon": "12.026561",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/1ToCntM4yoaRk9TpAd3Z-pAn",
+  "fileName": "EUF_IT-Bsn_FLUXNET_2020-2021_v1.3_r1.zip",
+  "size": "26394952",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Bsn",
+  "stationName": "Bussoleno",
+  "lat": "45.11924",
+  "lon": "7.160429",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/m7FE4F9G5kn2XaEsWLMCtomo",
+  "fileName": "EUF_IT-BsB_FLUXNET_2021-2024_v1.3_r1.zip",
+  "size": "55027717",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-BsB",
+  "stationName": "Bussoleno Bosco",
+  "lat": "45.11823",
+  "lon": "7.161995",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/xK4i981ZSwQZHJeKKfpx5eZo",
+  "fileName": "EUF_IT-Arz_FLUXNET_2016-2024_v1.3_r1.zip",
+  "size": "92656306",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IT-Arz",
+  "stationName": "Arzelle",
+  "lat": "45.61902",
+  "lon": "10.00228",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ddBS_ZLjXuBI8SSQV2cskqda",
+  "fileName": "EUF_IL-Yat_FLUXNET_2000-2024_v1.3_r1.zip",
+  "size": "220897206",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IL-Yat",
+  "stationName": "Yatir",
+  "lat": "31.345045",
+  "lon": "35.051987",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/BDfZZGumiN8Ci3FRoFGYGKdQ",
+  "fileName": "EUF_IL-RmH_FLUXNET_2015-2020_v1.3_r1.zip",
+  "size": "33886551",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IL-RmH",
+  "stationName": "Ramat Hanadiv",
+  "lat": "32.5555",
+  "lon": "34.947285",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/GDCw0QfMze-6S4E59YD2vQBI",
+  "fileName": "EUF_IE-Gwr_FLUXNET_2016-2016_v1.3_r1.zip",
+  "size": "21326757",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IE-Gwr",
+  "stationName": "Gowran",
+  "lat": "52.6365",
+  "lon": "-7.011306",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/fqas87xDJV_zXM6w23MBsleq",
+  "fileName": "EUF_IE-CaN_FLUXNET_2003-2007_v1.3_r1.zip",
+  "size": "55786407",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IE-CaN",
+  "stationName": "Carlow No Tillage",
+  "lat": "52.85879",
+  "lon": "-6.918136",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/olP0y9DuPPJFn_A3uWTEjEFU",
+  "fileName": "EUF_IE-CaC_FLUXNET_2003-2007_v1.3_r1.zip",
+  "size": "58363869",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_IE-CaC",
+  "stationName": "Carlow Conventional Tillage",
+  "lat": "52.85879",
+  "lon": "-6.918136",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/KGeOFn8sIXSOmMXfGprQynOP",
+  "fileName": "EUF_GH-Ank_FLUXNET_2011-2014_v1.3_r1.zip",
+  "size": "37171400",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_GH-Ank",
+  "stationName": "Ankasa",
+  "lat": "5.268543",
+  "lon": "-2.694206",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/RQ_jc_Wrew30CVD3ZzWJjS3b",
+  "fileName": "EUF_FR-Nzn_FLUXNET_2016-2025_v1.3_r1.zip",
+  "size": "102725605",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Nzn",
+  "stationName": "Naizin",
+  "lat": "48.005814",
+  "lon": "-2.81721",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ebGKrL-UajXA0SkdfSt100r9",
+  "fileName": "EUF_FR-Mau_FLUXNET_2005-2011_v1.3_r1.zip",
+  "size": "71938687",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-Mau",
+  "stationName": "Mauzac",
+  "lat": "43.385",
+  "lon": "1.29306",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/edFutLlMMA1D7S31ZC4pf2E2",
+  "fileName": "EUF_FR-LBr_FLUXNET_1998-2008_v1.3_r1.zip",
+  "size": "108818065",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FR-LBr",
+  "stationName": "Le Bray",
+  "lat": "44.71711",
+  "lon": "-0.7693",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Wojh4t-c8scGC-S00oT_sfAW",
+  "fileName": "EUF_FI-Si2_FLUXNET_2012-2016_v1.3_r1.zip",
+  "size": "35349039",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Si2",
+  "stationName": "Siikaneva-2 Bog",
+  "lat": "61.837303",
+  "lon": "24.169725",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/xUETR-0OEq8u2S5UUHl8sLm_",
+  "fileName": "EUF_FI-Sar_FLUXNET_2022-2022_v1.3_r1.zip",
+  "size": "23008385",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Sar",
+  "stationName": "Sarkisuo",
+  "lat": "63.15143",
+  "lon": "27.199064",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/TYPI56oF2JQVeXc0g4SU60It",
+  "fileName": "EUF_FI-Ruk_FLUXNET_2020-2023_v1.3_r1.zip",
+  "size": "55328117",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Ruk",
+  "stationName": "Ruukki",
+  "lat": "64.68398",
+  "lon": "25.106318",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Agmj31O2_U5UxIfjk_idGdLg",
+  "fileName": "EUF_FI-Rk2_FLUXNET_2020-2023_v1.3_r1.zip",
+  "size": "50476805",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Rk2",
+  "stationName": "Ranskalankorpi",
+  "lat": "61.182884",
+  "lon": "25.262684",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/UuvYrldK3v4VzDgfH6nC0ed7",
+  "fileName": "EUF_FI-Qvd_FLUXNET_2018-2023_v1.3_r1.zip",
+  "size": "64703771",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Qvd",
+  "stationName": "Qvidja",
+  "lat": "60.295242",
+  "lon": "22.391607",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/u2xUfhEZCOWwWb3gVywfqYw_",
+  "fileName": "EUF_FI-Pap_FLUXNET_2022-2022_v1.3_r1.zip",
+  "size": "23566726",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Pap",
+  "stationName": "Pappilansuo",
+  "lat": "63.13806",
+  "lon": "27.246117",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/cSm1qTXbblwvWpF9j1Oow7qX",
+  "fileName": "EUF_FI-Nsv_FLUXNET_2021-2024_v1.3_r1.zip",
+  "size": "49677647",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Nsv",
+  "stationName": "Naarasneva",
+  "lat": "62.8639",
+  "lon": "24.08382",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CVM"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/cgiNAijXEPsdarV0jDSFhEnK",
+  "fileName": "EUF_FI-Jok_FLUXNET_2000-2003_v1.3_r2.zip",
+  "size": "52281650",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_FI-Jok",
+  "stationName": "Jokioinen",
+  "lat": "60.8986",
+  "lon": "23.51345",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/sHycwsOK158vpmp0rDH1ujPO",
+  "fileName": "EUF_ES-Yst_FLUXNET_2019-2024_v1.3_r2.zip",
+  "size": "64410149",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Yst",
+  "stationName": "Yeste",
+  "lat": "38.338932",
+  "lon": "-2.3506052",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/mLCP7JnLuR2woC45y23wPdGC",
+  "fileName": "EUF_ES-VDA_FLUXNET_2022-2024_v1.3_r1.zip",
+  "size": "38270266",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-VDA",
+  "stationName": "Vall d Alinya (Lleida)",
+  "lat": "42.15111",
+  "lon": "1.44738",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/gu5gauPM7ynjb6T28S4OY_sW",
+  "fileName": "EUF_ES-TzM_FLUXNET_2020-2024_v1.3_r1.zip",
+  "size": "53743839",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-TzM",
+  "stationName": "Tarazona de la Mancha",
+  "lat": "39.265785",
+  "lon": "-1.9397246",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/zeJEF_Ad4wJIKY-U5orJ3sKQ",
+  "fileName": "EUF_ES-Srn_FLUXNET_2023-2024_v1.3_r1.zip",
+  "size": "27387719",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Srn",
+  "stationName": "Sarrion",
+  "lat": "40.15047",
+  "lon": "-0.8380832",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/MCo93azRjtwVI6d9esdIeMck",
+  "fileName": "EUF_ES-Pzb_FLUXNET_2020-2025_v1.3_r1.zip",
+  "size": "67593790",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Pzb",
+  "stationName": "Pozoblanco",
+  "lat": "38.362118",
+  "lon": "-4.767329",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/2ymbZLqZeToLY29BAzHOvpA4",
+  "fileName": "EUF_ES-Pdu_FLUXNET_2014-2017_v1.3_r1.zip",
+  "size": "47143215",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Pdu",
+  "stationName": "Padul",
+  "lat": "37.016975",
+  "lon": "-3.609228",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/HPlYEFEhMzxWYOTC7Ch8Ku5a",
+  "fileName": "EUF_ES-Mzn_FLUXNET_2023-2024_v1.3_r1.zip",
+  "size": "27518317",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Mzn",
+  "stationName": "Manzanera",
+  "lat": "40.089497",
+  "lon": "-0.827409",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/lJTi2ztBm4QTcyuhsB4tcap1",
+  "fileName": "EUF_ES-MtN_FLUXNET_2024-2024_v1.3_r1.zip",
+  "size": "21534646",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-MtN",
+  "stationName": "MonteNegro",
+  "lat": "36.99234",
+  "lon": "-6.4826016",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/fZRunEwzLwhz0ZYzshuo9-cS",
+  "fileName": "EUF_ES-MtB_FLUXNET_2021-2024_v1.3_r1.zip",
+  "size": "49171017",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-MtB",
+  "stationName": "MonteBlanco",
+  "lat": "37.020206",
+  "lon": "-6.5544033",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/jyX3FQLrXu_wjllntwoO10IQ",
+  "fileName": "EUF_ES-Mcd_FLUXNET_2018-2024_v1.3_r1.zip",
+  "size": "76674967",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Mcd",
+  "stationName": "Moncada",
+  "lat": "39.58819",
+  "lon": "-0.39969",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/g9leg2h8KqvlcEUVuisiJFd9",
+  "fileName": "EUF_ES-Ln2_FLUXNET_2009-2009_v1.3_r1.zip",
+  "size": "21591157",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Ln2",
+  "stationName": "Lanjaron-Salvage logging",
+  "lat": "36.9695",
+  "lon": "-3.475819",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/39o6NThdN0JnaIr99K8pvny2",
+  "fileName": "EUF_ES-LgS_FLUXNET_2007-2009_v1.3_r1.zip",
+  "size": "42964170",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-LgS",
+  "stationName": "Laguna Seca",
+  "lat": "37.097935",
+  "lon": "-2.965833",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/CgWe1iCQaO3oYYxgSMEe1BSq",
+  "fileName": "EUF_ES-LM2_FLUXNET_2014-2024_v1.3_r1.zip",
+  "size": "119176433",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-LM2",
+  "stationName": "Majadas del Tietar South",
+  "lat": "39.934593",
+  "lon": "-5.775881",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SAV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/9c9e--DRFTTyhtl6c0lcA3O6",
+  "fileName": "EUF_ES-LM1_FLUXNET_2014-2024_v1.3_r1.zip",
+  "size": "116883743",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-LM1",
+  "stationName": "Majadas del Tietar North",
+  "lat": "39.94269",
+  "lon": "-5.778683",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SAV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/TWomFhgjVCGRurmVpcaHcRD5",
+  "fileName": "EUF_ES-LJu_FLUXNET_2004-2024_v1.3_r1.zip",
+  "size": "157691679",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-LJu",
+  "stationName": "Llano de los Juanes",
+  "lat": "36.926594",
+  "lon": "-2.752115",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/MFHVWXPN9W_gfpI8fA4UtBVf",
+  "fileName": "EUF_ES-Hen_FLUXNET_2019-2024_v1.3_r1.zip",
+  "size": "73494772",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Hen",
+  "stationName": "Hellin",
+  "lat": "38.411087",
+  "lon": "-1.697534",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/K1e9bqWUrsIlqHjlDzbl2VzM",
+  "fileName": "EUF_ES-HeB_FLUXNET_2019-2024_v1.3_r1.zip",
+  "size": "71137788",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-HeB",
+  "stationName": "Hellín Burnt",
+  "lat": "38.40475",
+  "lon": "-1.726215",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/w-KQ8NQ2IIyy_hF0LeeyY5EY",
+  "fileName": "EUF_ES-HdD_FLUXNET_2024-2024_v1.3_r1.zip",
+  "size": "23355363",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-HdD",
+  "stationName": "Hinojosa del Duque",
+  "lat": "38.49679",
+  "lon": "-5.111296",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SAV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/EhJy8Xkd_vyJfhWOz3TNnFg-",
+  "fileName": "EUF_ES-Gdn_FLUXNET_2014-2021_v1.3_r1.zip",
+  "size": "50379951",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Gdn",
+  "stationName": "Guadiana",
+  "lat": "37.91084",
+  "lon": "-3.228489",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SAV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/XVdkuBOyHTuezFce92fJHego",
+  "fileName": "EUF_ES-FtD_FLUXNET_2021-2024_v1.3_r1.zip",
+  "size": "50860306",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-FtD",
+  "stationName": "FuenteDuque",
+  "lat": "36.99854",
+  "lon": "-6.434575",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/dnuv1IF5YfwR9HAxV7HJCIcx",
+  "fileName": "EUF_ES-Dnn_FLUXNET_2024-2024_v1.3_r1.zip",
+  "size": "20931899",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Dnn",
+  "stationName": "Donana",
+  "lat": "36.9968",
+  "lon": "-6.5118",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/OuvCtRGBok2ZxUrKwXIP5LDY",
+  "fileName": "EUF_ES-Crg_FLUXNET_2021-2024_v1.3_r1.zip",
+  "size": "46690638",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Crg",
+  "stationName": "Caroig",
+  "lat": "39.11926",
+  "lon": "-0.95852",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ak3chQKBZovcC1AIpPf0aaJw",
+  "fileName": "EUF_ES-Cnd_FLUXNET_2014-2021_v1.3_r1.zip",
+  "size": "62828721",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Cnd",
+  "stationName": "Conde",
+  "lat": "37.914997",
+  "lon": "-3.227659",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WSA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/O6rek4-yeo_2LQrvCqM88Xvf",
+  "fileName": "EUF_ES-Amo_FLUXNET_2007-2019_v1.3_r1.zip",
+  "size": "62753131",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Amo",
+  "stationName": "Amoladeras",
+  "lat": "36.833405",
+  "lon": "-2.2522173",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/smUITWSfoJ6VoyqONgDBxTSn",
+  "fileName": "EUF_ES-Agu_FLUXNET_2006-2024_v1.3_r1.zip",
+  "size": "109084594",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Agu",
+  "stationName": "Aguamarga",
+  "lat": "36.93934",
+  "lon": "-2.03407",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/9_zyiamtBTthobX1dZHj5Z_G",
+  "fileName": "EUF_ES-Abr_FLUXNET_2015-2020_v1.3_r1.zip",
+  "size": "69328978",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_ES-Abr",
+  "stationName": "Albuera",
+  "lat": "38.70184",
+  "lon": "-6.785881",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SAV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/sFfCVhQN_VAihmQaOYe60Kv9",
+  "fileName": "EUF_EE-Stg_FLUXNET_2016-2025_v1.3_r1.zip",
+  "size": "100640979",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_EE-Stg",
+  "stationName": "Soontaga Forest Station",
+  "lat": "58.023636",
+  "lon": "26.070753",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/pzhWzdUB9mug5_LG8O59e44w",
+  "fileName": "EUF_EE-Rng_FLUXNET_2023-2025_v1.3_r1.zip",
+  "size": "34840594",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_EE-Rng",
+  "stationName": "Ruhingu",
+  "lat": "57.913143",
+  "lon": "26.694048",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/tRcwY_kTpM1ZZS6b9oRWAvI9",
+  "fileName": "EUF_EE-Pts_FLUXNET_2022-2025_v1.3_r1.zip",
+  "size": "49758598",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_EE-Pts",
+  "stationName": "Pitsalu",
+  "lat": "58.562298",
+  "lon": "24.369932",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/-2GoD8_IvjHfXvvW0-AkljOu",
+  "fileName": "EUF_DK-Fou_FLUXNET_2005-2005_v1.3_r1.zip",
+  "size": "22736263",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DK-Fou",
+  "stationName": "Foulum",
+  "lat": "56.4842",
+  "lon": "9.58722",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/AK-_MzK94ElJrWETR-czULE2",
+  "fileName": "EUF_DK-Eng_FLUXNET_2005-2008_v1.3_r1.zip",
+  "size": "48399000",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DK-Eng",
+  "stationName": "Enghave",
+  "lat": "55.69053",
+  "lon": "12.19175",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/2FbdCUZozMmOpJwWEN3plb49",
+  "fileName": "EUF_DE-Zrk_FLUXNET_2013-2022_v1.3_r1.zip",
+  "size": "110096536",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Zrk",
+  "stationName": "Zarnekow",
+  "lat": "53.875942",
+  "lon": "12.88901",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/gb2UwUz8CoKkqKzLApzvIDME",
+  "fileName": "EUF_DE-Spw_FLUXNET_2010-2015_v1.3_r1.zip",
+  "size": "59639844",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Spw",
+  "stationName": "Spreewald",
+  "lat": "51.89225",
+  "lon": "14.03369",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/3wyudmvcaouNNJhVUFGNapGm",
+  "fileName": "EUF_DE-SfS_FLUXNET_2010-2020_v1.3_r1.zip",
+  "size": "102627539",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-SfS",
+  "stationName": "Schechenfilz Sued",
+  "lat": "47.80629",
+  "lon": "11.32757",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/CpSdf06dlgeBWeO1tSHFwc2D",
+  "fileName": "EUF_DE-Seh_FLUXNET_2007-2010_v1.3_r1.zip",
+  "size": "52420132",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Seh",
+  "stationName": "Selhausen",
+  "lat": "50.870625",
+  "lon": "6.449653",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/JeVgt8rDc-YmluX84aD3xarU",
+  "fileName": "EUF_DE-SbM_FLUXNET_2023-2024_v1.3_r1.zip",
+  "size": "28361892",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-SbM",
+  "stationName": "Sonnenberger Moor",
+  "lat": "51.764927",
+  "lon": "10.51799",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/u8eIM1nL0KdiWr-MLixNMsMS",
+  "fileName": "EUF_DE-RuM_FLUXNET_2011-2019_v1.3_r1.zip",
+  "size": "100411230",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-RuM",
+  "stationName": "Merzenhausen",
+  "lat": "50.929787",
+  "lon": "6.2969923",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/6wyhw6OzYJx9CTweBWw2nqVG",
+  "fileName": "EUF_DE-RuC_FLUXNET_2013-2025_v1.3_r1.zip",
+  "size": "127274030",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-RuC",
+  "stationName": "Wustebach Clearcut",
+  "lat": "50.5031",
+  "lon": "6.336",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ZOfRvdcakFBnrRQoiDMUEyds",
+  "fileName": "EUF_DE-Rns_FLUXNET_2021-2024_v1.3_r2.zip",
+  "size": "56962235",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Rns",
+  "stationName": "Reinshof",
+  "lat": "51.494953",
+  "lon": "9.932118",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/gV9mm29h9oS7GXxosxQAmbsv",
+  "fileName": "EUF_DE-Obe_FLUXNET_2008-2025_v1.3_r1.zip",
+  "size": "178659156",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Obe",
+  "stationName": "Oberbarenburg",
+  "lat": "50.7864",
+  "lon": "13.72168",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Iy6uj-QptZzaR9BFnqiv4hF6",
+  "fileName": "EUF_DE-Lnf_FLUXNET_2002-2024_v1.3_r1.zip",
+  "size": "150576313",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Lnf",
+  "stationName": "Leinefelde",
+  "lat": "51.328217",
+  "lon": "10.3678",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/VNA_ubq_zjZPgC8339cL7BwL",
+  "fileName": "EUF_DE-Lkb_FLUXNET_2009-2013_v1.3_r1.zip",
+  "size": "56106301",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Lkb",
+  "stationName": "Lackenberg",
+  "lat": "49.099617",
+  "lon": "13.3046665",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/zbIc22jMQSru_HymYjw5kWC-",
+  "fileName": "EUF_DE-Hte_FLUXNET_2009-2018_v1.3_r2.zip",
+  "size": "96194785",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Hte",
+  "stationName": "Huetelmoor",
+  "lat": "54.213055",
+  "lon": "12.179944",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/6L5koGxrPosquldCoKHd45Q8",
+  "fileName": "EUF_DE-Hdn_FLUXNET_2020-2023_v1.3_r1.zip",
+  "size": "46448930",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Hdn",
+  "stationName": "Heydenhof",
+  "lat": "53.86825",
+  "lon": "13.268543",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/b0tz6VWoOuy5q8fPPS-ivEKc",
+  "fileName": "EUF_DE-Etn_FLUXNET_2024-2025_v1.3_r1.zip",
+  "size": "27833200",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Etn",
+  "stationName": "Ettenheim",
+  "lat": "48.268486",
+  "lon": "7.878243",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/IMzfKbRgPQZDJNaSakSqdbQN",
+  "fileName": "EUF_DE-Akm_FLUXNET_2009-2025_v1.3_r1.zip",
+  "size": "121701475",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_DE-Akm",
+  "stationName": "Anklam",
+  "lat": "53.86617",
+  "lon": "13.68342",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/CM9ZMyBcfqBoKkmLPUDwiyMo",
+  "fileName": "EUF_CZ-Stn_FLUXNET_2010-2024_v1.3_r1.zip",
+  "size": "159471891",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CZ-Stn",
+  "stationName": "Stitna",
+  "lat": "49.035976",
+  "lon": "17.9699",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/LlmTy3u9548FEMXEW59RiWpY",
+  "fileName": "EUF_CZ-RAJ_FLUXNET_2012-2024_v1.3_r1.zip",
+  "size": "142068981",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CZ-RAJ",
+  "stationName": "Rajec",
+  "lat": "49.44372",
+  "lon": "16.696512",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/cezPci33oJjpbkjDF47P8YIK",
+  "fileName": "EUF_CZ-LnG_FLUXNET_2019-2024_v1.3_r1.zip",
+  "size": "73178123",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CZ-LnG",
+  "stationName": "Lanzhot Grassland",
+  "lat": "48.704224",
+  "lon": "16.926247",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/cqH_ifs_P83CsahNQXGTp3Im",
+  "fileName": "EUF_CZ-KrP_FLUXNET_2014-2023_v1.3_r2.zip",
+  "size": "115096532",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CZ-KrP",
+  "stationName": "Kresin u Pacova",
+  "lat": "49.573257",
+  "lon": "15.078773",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/x40X4P6k4g30f_OFC6o4vHvJ",
+  "fileName": "EUF_CZ-BK2_FLUXNET_2006-2012_v1.3_r1.zip",
+  "size": "73021095",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CZ-BK2",
+  "stationName": "Bily Kriz grassland",
+  "lat": "49.49443",
+  "lon": "18.54285",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/mkSJOp0Dw6pVHTYytNO2XjZW",
+  "fileName": "EUF_CH-Tnk_FLUXNET_2024-2024_v1.3_r1.zip",
+  "size": "23378410",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Tnk",
+  "stationName": "Tanikon",
+  "lat": "47.48058",
+  "lon": "8.911775",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/ZSw7OruD5oGCPKwcw5aAC563",
+  "fileName": "EUF_CH-Rtb_FLUXNET_2009-2022_v1.3_r1.zip",
+  "size": "117894474",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Rtb",
+  "stationName": "Rietholzbach",
+  "lat": "47.3804",
+  "lon": "8.9934",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/s29xGnt-hLzMlal-qo4i1iwb",
+  "fileName": "EUF_CH-Rh2_FLUXNET_2018-2021_v1.3_r1.zip",
+  "size": "50850798",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Rh2",
+  "stationName": "Ruethi peatland covered",
+  "lat": "47.3",
+  "lon": "9.5",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/dvdiSGaj5yT3Cv3bSaKktRf5",
+  "fileName": "EUF_CH-Rh1_FLUXNET_2018-2021_v1.3_r1.zip",
+  "size": "50781489",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Rh1",
+  "stationName": "Ruethi peatland reference",
+  "lat": "47.3",
+  "lon": "9.5",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Jk2_wTjn37nJQ0Ex5QzdqT8D",
+  "fileName": "EUF_CH-Oe3_FLUXNET_2002-2011_v1.3_r2.zip",
+  "size": "98862859",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Oe3",
+  "stationName": "Oensingen extensive grassland",
+  "lat": "47.28542",
+  "lon": "7.732438",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/nayPPdWP7UC3vBVNv1HnbxOJ",
+  "fileName": "EUF_CH-Oe2_FLUXNET_2004-2024_v1.3_r1.zip",
+  "size": "207776686",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Oe2",
+  "stationName": "Oensingen crop",
+  "lat": "47.286415",
+  "lon": "7.73375",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Yhvt49ceMFBoaJhA4RgbYQf4",
+  "fileName": "EUF_CH-Oe1_FLUXNET_2002-2011_v1.3_r1.zip",
+  "size": "104003984",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Oe1",
+  "stationName": "Oensingen grassland",
+  "lat": "47.28583",
+  "lon": "7.731944",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/V_BAvTqbUIgSItmCcoHgP3Vy",
+  "fileName": "EUF_CH-Lae_FLUXNET_2004-2024_v1.3_r1.zip",
+  "size": "206418222",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Lae",
+  "stationName": "Laegern",
+  "lat": "47.478333",
+  "lon": "8.364389",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/xnRKIWdx6isC5GLqv_pHq5hU",
+  "fileName": "EUF_CH-Fru_FLUXNET_2005-2024_v1.3_r1.zip",
+  "size": "219332728",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Fru",
+  "stationName": "Fruebuel",
+  "lat": "47.115833",
+  "lon": "8.537778",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/DyO-bck7H9h82Jj_OFEFlWHD",
+  "fileName": "EUF_CH-Frk_FLUXNET_2013-2014_v1.3_r1.zip",
+  "size": "26933481",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Frk",
+  "stationName": "Furka",
+  "lat": "46.577637",
+  "lon": "8.421592",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/J588sazh4YQmAe0rk3vLQAvD",
+  "fileName": "EUF_CH-For_FLUXNET_2024-2024_v1.3_r2.zip",
+  "size": "22779068",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-For",
+  "stationName": "Forel",
+  "lat": "46.527206",
+  "lon": "6.7595406",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/imYdB4O0vIcmT-V5Xecz4Ww6",
+  "fileName": "EUF_CH-Crs_FLUXNET_2015-2016_v1.3_r1.zip",
+  "size": "28153087",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Crs",
+  "stationName": "Cressier",
+  "lat": "47.0436",
+  "lon": "7.0475",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/_BRGI6F0aH0BpH6M9QscIcym",
+  "fileName": "EUF_CH-Cha_FLUXNET_2005-2024_v1.3_r1.zip",
+  "size": "186688840",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Cha",
+  "stationName": "Chamau",
+  "lat": "47.21022",
+  "lon": "8.410444",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/2c8FDF30wAcPfPTgr_PwL3qv",
+  "fileName": "EUF_CH-Aws_FLUXNET_2006-2024_v1.3_r2.zip",
+  "size": "128032313",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CH-Aws",
+  "stationName": "Alp Weissenstein",
+  "lat": "46.58311",
+  "lon": "9.790639",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/FCFD-_Unczb9xHrj6_dm8loj",
+  "fileName": "EUF_CG-Tch_FLUXNET_2006-2009_v1.3_r1.zip",
+  "size": "44197775",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CG-Tch",
+  "stationName": "Tchizalamou",
+  "lat": "-4.2891665",
+  "lon": "11.656417",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_SAV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/oc2rvgUbNz-kUIeMsNmvNv8X",
+  "fileName": "EUF_BE-Lcr_FLUXNET_2019-2022_v1.3_r1.zip",
+  "size": "55131424",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_BE-Lcr",
+  "stationName": "Lochristi",
+  "lat": "51.11218",
+  "lon": "3.85043",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/cp3qmc9PDJw4kLwCX34YIr1M",
+  "fileName": "EUF_AT-Zoe_FLUXNET_2014-2024_v1.3_r1.zip",
+  "size": "75542972",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_AT-Zoe",
+  "stationName": "Zoebelboden",
+  "lat": "47.842247",
+  "lon": "14.444137",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/STpBN0N9Df49Aabujg7yoJar",
+  "fileName": "EUF_AT-PsM_FLUXNET_2015-2019_v1.3_r1.zip",
+  "size": "59427332",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_AT-PsM",
+  "stationName": "Puergschachen Moor",
+  "lat": "47.58145",
+  "lon": "14.347197",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/2Itqw8Hspuyjolyphte0hHnO",
+  "fileName": "EUF_AT-Nsd_FLUXNET_2018-2022_v1.3_r1.zip",
+  "size": "61307670",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_AT-Nsd",
+  "stationName": "Neusiedl",
+  "lat": "47.76914",
+  "lon": "16.758492",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/igjTOOy6rdzyQ7RPN590N98N",
+  "fileName": "EUF_AT-Neu_FLUXNET_2002-2020_v1.3_r1.zip",
+  "size": "187288213",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_AT-Neu",
+  "stationName": "Neustift",
+  "lat": "47.116318",
+  "lon": "11.320229",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/vHyGo8dhsRM5RdQFzYEkutaB",
+  "fileName": "EUF_AT-Mmg_FLUXNET_2021-2025_v1.3_r1.zip",
+  "size": "64251009",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_AT-Mmg",
+  "stationName": "Mieming",
+  "lat": "47.316563",
+  "lon": "10.970089",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_ENF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/tFBkzpRGg9Iwux3atrGwD_ur",
+  "fileName": "CNF_CN-Zha_FLUXNET_2012-2024_v1.3_r1.zip",
+  "size": "135623524",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Zha",
+  "stationName": "Zhangye wetland",
+  "lat": "38.97514",
+  "lon": "100.4464",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/NFU16xgbyY-I0UsIppkbnnAV",
+  "fileName": "CNF_CN-Yuc_FLUXNET_2011-2020_v1.3_r2.zip",
+  "size": "101453980",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Yuc",
+  "stationName": "Yucheng",
+  "lat": "36.8287",
+  "lon": "116.5701",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/vRR8XgOrD3OP9aSNCJm9qe2P",
+  "fileName": "CNF_CN-You_FLUXNET_2015-2024_v1.3_r1.zip",
+  "size": "89438754",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-You",
+  "stationName": "Yakou",
+  "lat": "38.01419",
+  "lon": "100.24206",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/lc9678eCbEfan19oZCTEp4yW",
+  "fileName": "CNF_CN-Yan_FLUXNET_2016-2018_v1.3_r1.zip",
+  "size": "40486733",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Yan",
+  "stationName": "Yanchi Planted Shrubs",
+  "lat": "37.82861",
+  "lon": "107.49278",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/6pt5rPsY7WPz3-14KSumsu47",
+  "fileName": "CNF_CN-YaS_FLUXNET_2011-2020_v1.3_r1.zip",
+  "size": "106348151",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-YaS",
+  "stationName": "Yanchi natural shrubland",
+  "lat": "37.70877",
+  "lon": "107.22655",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Q9e9OH0qQmaJV4OiVUDW3BAV",
+  "fileName": "CNF_CN-Xi2_FLUXNET_2011-2020_v1.3_r1.zip",
+  "size": "93086358",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Xi2",
+  "stationName": "Xilinhot grassland site (X03)",
+  "lat": "43.55444",
+  "lon": "116.6714",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/Ed_4y2WO5VnXMnrBdzHXIhpj",
+  "fileName": "CNF_CN-Wnb_FLUXNET_2021-2021_v1.3_r2.zip",
+  "size": "24451437",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Wnb",
+  "stationName": "Wulanbuhe",
+  "lat": "40.42876",
+  "lon": "106.74229",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_BSV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/3lCvpR-G0sl29NE-OD2rgvf7",
+  "fileName": "CNF_CN-Sdq_FLUXNET_2013-2024_v1.3_r1.zip",
+  "size": "132350228",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Sdq",
+  "stationName": "Sidaoqiao",
+  "lat": "42.00119",
+  "lon": "101.13741",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/0G-jY-Q07vGfkXXWOr9iSo2z",
+  "fileName": "CNF_CN-Qng_FLUXNET_2022-2024_v1.3_r1.zip",
+  "size": "28925551",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Qng",
+  "stationName": "Qinling",
+  "lat": "33.46807",
+  "lon": "108.49102",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DNF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/0v70myjZ6UGZr9O6hJG55c-t",
+  "fileName": "CNF_CN-Nmn_FLUXNET_2015-2019_v1.3_r1.zip",
+  "size": "65315561",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Nmn",
+  "stationName": "Naiman",
+  "lat": "42.94611",
+  "lon": "120.72694",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/LC7IDEUVMo2L4DrP_LRCS8PR",
+  "fileName": "CNF_CN-Mxn_FLUXNET_2015-2019_v1.3_r1.zip",
+  "size": "40026308",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Mxn",
+  "stationName": "Maoxian",
+  "lat": "31.6948",
+  "lon": "103.8951",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/z2J76ckVo1ywgV-s6QoYLklQ",
+  "fileName": "CNF_CN-Lch_FLUXNET_2008-2020_v1.3_r1.zip",
+  "size": "132445676",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Lch",
+  "stationName": "Luancheng",
+  "lat": "37.88936",
+  "lon": "114.69289",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/IdPKbpSMd_1dl0ReNyYlmqoX",
+  "fileName": "CNF_CN-Jzh_FLUXNET_2011-2016_v1.3_r2.zip",
+  "size": "69063262",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Jzh",
+  "stationName": "Jinzhou",
+  "lat": "41.14806",
+  "lon": "121.20167",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/-j9SFp6fnVpcNTpZmfQG_mJm",
+  "fileName": "CNF_CN-Jng_FLUXNET_2018-2024_v1.3_r1.zip",
+  "size": "63344128",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Jng",
+  "stationName": "Jingyangling",
+  "lat": "37.83869",
+  "lon": "101.1145",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/1T6b8TLnKLGWf4tOzEuap3QT",
+  "fileName": "CNF_CN-Huz_FLUXNET_2015-2024_v1.3_r1.zip",
+  "size": "98212631",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Huz",
+  "stationName": "Huazhaizi",
+  "lat": "38.76519",
+  "lon": "100.3186",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_BSV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/jF6IagFB3JTernoRBEid7jI1",
+  "fileName": "CNF_CN-HeM_FLUXNET_2013-2024_v1.3_r1.zip",
+  "size": "129432576",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-HeM",
+  "stationName": "Heihe mixed forest",
+  "lat": "41.99029",
+  "lon": "101.13349",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_DBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/vYhdwdwjsWz9BbCqBCrlbO1M",
+  "fileName": "CNF_CN-HeD_FLUXNET_2019-2024_v1.3_r1.zip",
+  "size": "42309099",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-HeD",
+  "stationName": "Heihe desert",
+  "lat": "42.1135",
+  "lon": "100.9872",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_BSV"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/zcDT70pAxkOj3APSR2JAKGXf",
+  "fileName": "CNF_CN-HaW_FLUXNET_2011-2018_v1.3_r1.zip",
+  "size": "67795907",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-HaW",
+  "stationName": "Haibei Wetland",
+  "lat": "37.607655",
+  "lon": "101.32899",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/fO5BuMb3iizRc0O5TY5c-d7_",
+  "fileName": "CNF_CN-Ha2_FLUXNET_2011-2019_v1.3_r2.zip",
+  "size": "98292216",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Ha2",
+  "stationName": "Haibei Shrubland",
+  "lat": "37.6086",
+  "lon": "101.3269",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_OSH"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/e-sKFJBYhUCvVrCNIiPw-bYV",
+  "fileName": "CNF_CN-GuT_FLUXNET_2015-2017_v1.3_r1.zip",
+  "size": "41472914",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-GuT",
+  "stationName": "Guoluo Tuihua",
+  "lat": "34.35481",
+  "lon": "100.4872",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/YnJJoUgJzknCQc4Hl_yo1yyx",
+  "fileName": "CNF_CN-Erg_FLUXNET_2016-2019_v1.3_r1.zip",
+  "size": "45802751",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Erg",
+  "stationName": "Eerguna",
+  "lat": "50.1869",
+  "lon": "119.3889",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/cRRcmwgDGkL_FN07mKZghrOa",
+  "fileName": "CNF_CN-Dzo_FLUXNET_2010-2020_v1.3_r1.zip",
+  "size": "103490294",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Dzo",
+  "stationName": "Danzhou",
+  "lat": "19.546",
+  "lon": "109.475",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/4iVSvtAHibzF9fw90Vijm_Bi",
+  "fileName": "CNF_CN-Du2_FLUXNET_2011-2019_v1.3_r1.zip",
+  "size": "94869506",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Du2",
+  "stationName": "Duolun_grassland (D01)",
+  "lat": "42.0467",
+  "lon": "116.2836",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/CuNYBsqS22epRiBFdnFTFpHD",
+  "fileName": "CNF_CN-Dsh_FLUXNET_2013-2024_v1.3_r1.zip",
+  "size": "119208267",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Dsh",
+  "stationName": "Dashalong",
+  "lat": "38.83992",
+  "lon": "98.9406",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/rDvBU2EyWJDrd8bxJoMF69Lt",
+  "fileName": "CNF_CN-Dmn_FLUXNET_2012-2024_v1.3_r1.zip",
+  "size": "149577259",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Dmn",
+  "stationName": "Daman",
+  "lat": "38.85551",
+  "lon": "100.37223",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_CRO"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/eIM3dmOatc4k0XhMwrwZZGkW",
+  "fileName": "CNF_CN-Din_FLUXNET_2010-2020_v1.3_r2.zip",
+  "size": "76561664",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Din",
+  "stationName": "Dinghushan",
+  "lat": "23.1733",
+  "lon": "112.5361",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/LfCurmcmjbwq0kACEe81OTEW",
+  "fileName": "CNF_CN-Dda_FLUXNET_2011-2014_v1.3_r1.zip",
+  "size": "45090151",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Dda",
+  "stationName": "Damao",
+  "lat": "41.64397",
+  "lon": "110.33147",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/5nBFYMv5AuND3EaDf_ScE4kY",
+  "fileName": "CNF_CN-Dan_FLUXNET_2011-2020_v1.3_r1.zip",
+  "size": "68132692",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Dan",
+  "stationName": "Dangxiong",
+  "lat": "30.4978",
+  "lon": "91.0664",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/DQKmnAHmBm3CphGIcY5xQPmD",
+  "fileName": "CNF_CN-DaW_FLUXNET_2011-2019_v1.3_r1.zip",
+  "size": "51217627",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-DaW",
+  "stationName": "Dangxiong wetland",
+  "lat": "30.4691",
+  "lon": "91.0624",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_WET"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/bGwvrJ7bcVh2rAzAE59-6SwC",
+  "fileName": "CNF_CN-BeO_FLUXNET_2012-2020_v1.3_r2.zip",
+  "size": "99225310",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-BeO",
+  "stationName": "Beijing Olympic Forest Park",
+  "lat": "40.02621",
+  "lon": "116.39143",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_MF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/-aqgpma6k0HrmLYRSsZInJHG",
+  "fileName": "CNF_CN-Ash_FLUXNET_2009-2019_v1.3_r2.zip",
+  "size": "117237770",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Ash",
+  "stationName": "Ailaoshan",
+  "lat": "24.53806",
+  "lon": "101.02917",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_EBF"
+ },
+ {
+  "dobj": "https://meta.icos-cp.eu/objects/jxTNODjDo67lOrOxUacBPDO4",
+  "fileName": "CNF_CN-Aro_FLUXNET_2013-2024_v1.3_r2.zip",
+  "size": "138978078",
+  "station": "http://meta.icos-cp.eu/resources/stations/ES_CN-Aro",
+  "stationName": "Arou",
+  "lat": "38.04734",
+  "lon": "100.46432",
+  "eco": "http://meta.icos-cp.eu/ontologies/cpmeta/igbp_GRA"
+ }
+]

@@ -1,0 +1,29 @@
+{% load static %}<!doctype html>
+<html lang="{{ lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}AquaPin{% endblock %}</title>
+  <link rel="preload" href="{% static 'fields/fonts/plex-latin.woff2' %}" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{% static 'fields/vendor/leaflet.css' %}">
+  <link rel="stylesheet" href="{% static 'fields/css/app.css' %}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="top">
+    <a class="brand" href="{% url 'index' %}">AquaPin</a>
+    <nav class="nav" aria-label="Main">
+      {% for d in demos %}
+        <a href="{% url 'demo' d.slug %}"{% if request.resolver_match.kwargs.slug == d.slug %} aria-current="page"{% endif %}>{% if lang == 'ru' %}{{ d.name_ru }}{% else %}{{ d.name }}{% endif %}</a>
+      {% endfor %}
+    </nav>
+    <div class="top-actions">
+      <a class="btn" href="{% url 'pin' %}">{{ T.pin_own }}</a>
+      <span class="lang" role="group" aria-label="{{ T.language }}">
+        {% for code in langs %}<a href="{% url 'set_language' code %}"{% if code == lang %} aria-current="true"{% endif %}>{{ code|upper }}</a>{% endfor %}
+      </span>
+    </div>
+  </header>
+  <main id="main">{% block content %}{% endblock %}</main>
+</body>
+</html>

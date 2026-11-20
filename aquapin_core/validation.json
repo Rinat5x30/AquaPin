@@ -1,0 +1,28 @@
+{
+ "run_on": "2026-11-18",
+ "protocol": "backtest/PROTOCOL.md",
+ "seasons": 20,
+ "sites": 6,
+ "regions": "Europe and China",
+ "target": "tower ET (LE_F_MDS), mm/day",
+ "rmse_satellite": 1.0,
+ "rmse_table_med": 1.19,
+ "rmse_table_idaho": 1.15,
+ "rmse_table_best": 1.15,
+ "rmse7_satellite": 0.84,
+ "rmse7_table_best": 1.02,
+ "rel_bias_pct_uncorrected": 43,
+ "rel_bias_pct_closure_corrected": 13,
+ "seasons_satellite_better_than_best_table": 9,
+ "sign_test_p": 0.82,
+ "europe_rainfed": {
+  "rmse_satellite": 1.02,
+  "rmse_table_best": 1.01,
+  "seasons": 14
+ },
+ "china_irrigated": {
+  "rmse_satellite": 0.94,
+  "rmse_table_best": 1.4,
+  "seasons": 6
+ }
+}

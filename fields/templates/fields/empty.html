@@ -1,0 +1,8 @@
+{% extends "fields/base.html" %}
+{% block content %}
+<div class="statuspage">
+  <h1 class="place">{{ T.title }}</h1>
+  <p>No example fields are built yet. Run: <code>python scripts/build_demo.py</code></p>
+  <a class="btn primary" href="{% url 'pin' %}">{{ T.pin_own }}</a>
+</div>
+{% endblock %}

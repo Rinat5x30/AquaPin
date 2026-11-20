@@ -1,0 +1,66 @@
+{% extends "fields/base.html" %}
+{% load static %}
+{% block title %}{{ title_name }} · AquaPin{% endblock %}
+{% block content %}
+<div class="workspace">
+  <section class="mapwrap" aria-label="Map">
+    <div id="map"></div>
+    <div class="legend">
+      <span class="legend-title">{{ T.legend }}</span>
+      <div class="ramp" aria-hidden="true"></div>
+      <div class="ticks" aria-hidden="true"><span>0</span><span>0.3</span><span>0.6</span><span>0.9</span></div>
+      <div class="legend-labels"><span>{{ T.legend_low }}</span><span>{{ T.legend_high }}</span></div>
+    </div>
+    <p id="frame-caption" class="caption"></p>
+  </section>
+
+  <aside class="side" aria-live="polite">
+    <h1 class="place">{{ title_name }}</h1>
+    {% if mode == "demo" %}<p class="tagline">{{ T.tagline }}</p>{% endif %}
+    <p class="eyebrow">{{ T.today }} <span id="date" class="num"></span></p>
+    <p id="decision" class="decision"></p>
+    <p id="amount" class="amount num"></p>
+    <p class="conf"><span id="conf-badge" class="badge"></span> <span id="conf-reason"></span></p>
+
+    <h2 class="small">{{ T.events }}</h2>
+    <div id="events" class="events"></div>
+
+    <details class="why">
+      <summary>{{ T.why }}</summary>
+      <dl id="why-list"></dl>
+      <h2 class="small">{{ T.validation_title }}</h2>
+      <p class="note">{{ validation_text }}</p>
+      <h2 class="small">{{ T.assumptions }}</h2>
+      <ul id="assumptions"></ul>
+      {% if mode == "demo" %}<p class="note">{{ T.replay_note }}</p>{% endif %}
+    </details>
+
+    {% if field %}
+    <form method="post" action="{% url 'field_delete' field.id %}" class="inline-form">
+      {% csrf_token %}<button type="submit" class="btn quiet">{{ T.delete }}</button>
+    </form>
+    {% endif %}
+    <p class="note">{{ T.basemap }}</p>
+  </aside>
+
+  <section class="timeline" aria-label="{{ T.season }}">
+    <div class="controls">
+      <button id="play" type="button" class="btn">{{ T.play }}</button>
+      <label class="sr-only" for="slider">{{ T.season }}</label>
+      <input id="slider" type="range" min="0" max="0" value="0" step="1">
+    </div>
+    <svg id="chart" viewBox="0 0 640 150" preserveAspectRatio="none" role="img" aria-label="Soil water deficit"></svg>
+    <p class="note">{{ T.chart_legend }}</p>
+    <p id="summary" class="sr-only"></p>
+    <details class="obs">
+      <summary>{{ T.table_title }}</summary>
+      <table id="obs-table"><thead><tr><th scope="col">Date</th><th scope="col">NDVI</th></tr></thead><tbody></tbody></table>
+    </details>
+  </section>
+</div>
+{{ viewer|json_script:"viewer-data" }}
+{{ cfg|json_script:"viewer-config" }}
+{{ T|json_script:"i18n" }}
+<script src="{% static 'fields/vendor/leaflet.js' %}"></script>
+<script src="{% static 'fields/js/viewer.js' %}"></script>
+{% endblock %}

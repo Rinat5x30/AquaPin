@@ -1,0 +1,28 @@
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+extend-exclude = '/(\.venv|migrations|staticfiles|live_data)/'
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = [".venv", "migrations", "staticfiles", "live_data"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "S", "BLE", "SIM"]
+ignore = ["S101", "E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S", "B", "E731", "UP"]
+"scripts/*" = ["S", "BLE", "E402"]
+"backtest/*" = ["S", "BLE", "E402", "E731", "B023", "SIM115"]
+
+[tool.mypy]
+python_version = "3.11"
+plugins = ["mypy_django_plugin.main"]
+strict = true
+exclude = ['^[.]venv', 'migrations', '^tests', '^scripts']
+ignore_missing_imports = true
+
+[tool.django-stubs]
+django_settings_module = "aquapin_web.settings"

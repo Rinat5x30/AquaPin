@@ -1,0 +1,30 @@
+{% extends "fields/base.html" %}
+{% load static %}
+{% block title %}AquaPin{% endblock %}
+{% block content %}
+<div class="statuspage">
+  {% if failed %}
+    <h1 class="place">{{ T.failed }}</h1>
+    <p role="alert">{{ error_message }}</p>
+    <form method="post" action="{% url 'field_retry' field.id %}">{% csrf_token %}
+      <button class="btn primary" type="submit">{{ T.retry }}</button>
+    </form>
+  {% else %}
+    <h1 class="place">{{ T.loading }}</h1>
+    <p class="note num">{{ field.lat }}, {{ field.lon }} · {{ field.radius_m|floatformat:0 }} m</p>
+    <p id="poll-state" class="note" role="status"></p>
+    <script>
+      (function () {
+        var url = "{% url 'field_status' field.id %}";
+        function poll() {
+          fetch(url, {credentials: "same-origin"}).then(function (r) { return r.json(); }).then(function (s) {
+            if (s.status === "done" || s.status === "failed") { location.reload(); }
+            else { setTimeout(poll, 3000); }
+          }).catch(function () { setTimeout(poll, 6000); });
+        }
+        setTimeout(poll, 2500);
+      })();
+    </script>
+  {% endif %}
+</div>
+{% endblock %}

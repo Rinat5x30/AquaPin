@@ -1,0 +1,52 @@
+{% extends "fields/base.html" %}
+{% load static %}
+{% block title %}{{ T.pin_title }} · AquaPin{% endblock %}
+{% block content %}
+<div class="pinpage">
+  <section class="pin-map" aria-label="Map">
+    <div id="pickmap"></div>
+    <p class="note">{{ T.tiles_note }}</p>
+  </section>
+  <section class="pin-form">
+    <h1 class="place">{{ T.pin_title }}</h1>
+    <p>{{ T.pin_help }}</p>
+    {% if error %}<p class="error" role="alert">{% if error == "rate" %}429{% else %}{{ error }}{% endif %}</p>{% endif %}
+    <form method="post" action="{% url 'pin' %}" id="pin-form">
+      {% csrf_token %}
+      <div class="row">
+        <label for="lat">{{ T.lat }}</label>
+        <input id="lat" name="lat" type="number" step="0.0001" min="-60" max="75" required value="40.0">
+      </div>
+      <div class="row">
+        <label for="lon">{{ T.lon }}</label>
+        <input id="lon" name="lon" type="number" step="0.0001" min="-180" max="180" required value="48.6">
+      </div>
+      <div class="row">
+        <label for="radius">{{ T.radius }}: <output id="radius-out" class="num">150</output></label>
+        <input id="radius" name="radius" type="range" min="{{ min_r|floatformat:0 }}" max="{{ max_r|floatformat:0 }}" step="10" value="150">
+      </div>
+      <div class="row">
+        <label for="planting">{{ T.planting }}</label>
+        <input id="planting" name="planting" type="date" required value="{{ default_planting }}" max="{{ today }}">
+      </div>
+      <div class="row">
+        <label for="as_of">{{ T.as_of }}</label>
+        <input id="as_of" name="as_of" type="date" value="{{ today }}" max="{{ today }}">
+        <span class="note">{{ T.as_of_help }}</span>
+      </div>
+      <div class="row">
+        <label for="crop">{{ T.crop }}</label>
+        <select id="crop" name="crop">{% for c in crops %}<option value="{{ c }}">{{ c }}</option>{% endfor %}</select>
+      </div>
+      <div class="row check">
+        <input id="consent" name="consent" type="checkbox" required>
+        <label for="consent">{{ T.consent }}</label>
+      </div>
+      <button class="btn primary" type="submit">{{ T.submit }}</button>
+    </form>
+  </section>
+</div>
+{{ map_labels|json_script:"map-labels" }}
+<script src="{% static 'fields/vendor/leaflet.js' %}"></script>
+<script src="{% static 'fields/js/pin.js' %}"></script>
+{% endblock %}
